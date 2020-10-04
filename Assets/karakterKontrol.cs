@@ -9,13 +9,13 @@ using UnityEngine.UIElements;
 public class karakterKontrol : MonoBehaviour
 {
 
-    public Animator animator; 
+    public Animator animator;
     public float runSpeed = 40f;
     public static float runKats = 15f;
-    
+
 
     SpriteRenderer spriteRenderer; // Karakterin sprite renderer bölümüne ulaşmak için
-   
+
     Rigidbody2D fizik;
     //Wall Jumping
     public Transform groundCheck;
@@ -34,9 +34,9 @@ public class karakterKontrol : MonoBehaviour
     //******************
     float horizontal = 0f;
     float horizontalMove = 0f;
-  
+
     Vector3 vec;
-    
+
     bool jump = true;
     bool jump2 = true;
     public static bool isDead = false;
@@ -54,7 +54,7 @@ public class karakterKontrol : MonoBehaviour
     {
         if (runKats == 0)
         {
-            runKats = 15;
+            PlayerPrefs.SetFloat("MaxSpeed", 15f);
             Debug.Log("runkats");
         }
         else
@@ -64,13 +64,18 @@ public class karakterKontrol : MonoBehaviour
             artisMik = PlayerPrefs.GetInt("MaxBoost");
             Debug.Log(artisMik);
         }
-       
+
         spriteRenderer = GetComponent<SpriteRenderer>();
         fizik = GetComponent<Rigidbody2D>();
+        if (coinCount == 0)
+        {
+
+            PlayerPrefs.SetInt("MaxCoin", 500);
+        }
         coinCount = PlayerPrefs.GetInt("MaxCoin");
         CoinText.GetComponent<TextMeshProUGUI>().text = coinCount.ToString();
-        
-       
+
+
 
     }
 
@@ -83,7 +88,7 @@ public class karakterKontrol : MonoBehaviour
         {
 
             animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
-        
+
             horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
             if (horizontalMove > 0)
             {
@@ -97,7 +102,7 @@ public class karakterKontrol : MonoBehaviour
 
 
 
-        
+
             if (Input.GetKeyDown(KeyCode.Space))
 
             {
@@ -109,7 +114,7 @@ public class karakterKontrol : MonoBehaviour
                     fizik.AddForce(new Vector2(0, 900));
 
                     jump = false;
-                   
+
                     animator.SetTrigger("jumpTrigger");
                 }
 
@@ -134,7 +139,7 @@ public class karakterKontrol : MonoBehaviour
 
         isTouchingFront = Physics2D.OverlapCircle(frontCheck.position, checkRadius, whatIsGround);
 
-        if (isTouchingFront&&isGrounded==false)
+        if (isTouchingFront && isGrounded == false)
         {
             wallSliding = true;
         }
@@ -144,12 +149,12 @@ public class karakterKontrol : MonoBehaviour
         }
         if (wallSliding)
         {
-            fizik.velocity = new Vector2(fizik.velocity.x, Mathf.Clamp(fizik.velocity.y, -wallSlidingSpeed, float.MaxValue)); 
+            fizik.velocity = new Vector2(fizik.velocity.x, Mathf.Clamp(fizik.velocity.y, -wallSlidingSpeed, float.MaxValue));
 
         }
 
 
-        if (Input.GetKeyDown(KeyCode.Space)&&wallSliding)
+        if (Input.GetKeyDown(KeyCode.Space) && wallSliding)
         {
             wallJumping = true;
             Invoke("jumpFalse", WallJumpTime);
@@ -157,12 +162,12 @@ public class karakterKontrol : MonoBehaviour
 
         if (wallJumping)
         {
-            fizik.velocity = new Vector2(xWallForce*-1, yWallForce);
+            fizik.velocity = new Vector2(xWallForce * -1, yWallForce);
         }
 
-       
 
-  }
+
+    }
 
     void jumpFalse()
     {
@@ -171,16 +176,16 @@ public class karakterKontrol : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-            jump = true;
-            jump2 = true;
-        
+        jump = true;
+        jump2 = true;
 
-      
+
+
     }
 
     void FixedUpdate()
     {
-        
+
         karakterHareket();
 
     }
@@ -189,7 +194,7 @@ public class karakterKontrol : MonoBehaviour
 
         if (collision.CompareTag("Coin"))
         {
-            
+
             coinCount += artisMik;
             PlayerPrefs.SetInt("MaxCoin", coinCount);
 
@@ -199,7 +204,7 @@ public class karakterKontrol : MonoBehaviour
     void karakterHareket()
     {
 
-        if (isDead==false)
+        if (isDead == false)
         {
             horizontal = Input.GetAxisRaw("Horizontal");
 
@@ -218,7 +223,7 @@ public class karakterKontrol : MonoBehaviour
         {
             isDead = true;
         }
-        
+
     }
 
 
