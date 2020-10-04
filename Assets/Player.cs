@@ -18,6 +18,8 @@ public class Player : MonoBehaviour
         if (maxHealth==0)
         {
             maxHealth = 100;
+            PlayerPrefs.SetInt("MaxHealth", 100);
+            maxHealth = PlayerPrefs.GetInt("MaxHealth");
             currentHealth = maxHealth;
         }
         else

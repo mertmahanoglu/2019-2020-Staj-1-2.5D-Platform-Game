@@ -55,6 +55,7 @@ public class karakterKontrol : MonoBehaviour
         if (runKats == 0)
         {
             PlayerPrefs.SetFloat("MaxSpeed", 15f);
+            runKats = PlayerPrefs.GetFloat("MaxSpeed");
             Debug.Log("runkats");
         }
         else
@@ -71,6 +72,7 @@ public class karakterKontrol : MonoBehaviour
         {
 
             PlayerPrefs.SetInt("MaxCoin", 500);
+            coinCount = PlayerPrefs.GetInt("MaxCoin");
         }
         coinCount = PlayerPrefs.GetInt("MaxCoin");
         CoinText.GetComponent<TextMeshProUGUI>().text = coinCount.ToString();

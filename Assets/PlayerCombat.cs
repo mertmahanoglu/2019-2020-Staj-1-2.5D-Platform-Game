@@ -21,6 +21,8 @@ public class PlayerCombat : MonoBehaviour
         {
             attackDamage = 40;
             PlayerPrefs.SetInt("MaxDamage", 40);
+            attackDamage = PlayerPrefs.GetInt("MaxDamage");
+
         }
         else
         {
