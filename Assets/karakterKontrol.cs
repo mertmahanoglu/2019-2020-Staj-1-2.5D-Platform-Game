@@ -44,7 +44,7 @@ public class karakterKontrol : MonoBehaviour
 
     //Score Text Kodları
     public static int coinCount = 0;
-    public static int artisMik = 5;
+    public static int artisMik;
     public GameObject CoinText;
 
 
@@ -62,8 +62,7 @@ public class karakterKontrol : MonoBehaviour
         {
             runKats = PlayerPrefs.GetFloat("MaxSpeed");
             Debug.Log(runKats);
-            artisMik = PlayerPrefs.GetInt("MaxBoost");
-            Debug.Log(artisMik);
+            
         }
 
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -73,6 +72,12 @@ public class karakterKontrol : MonoBehaviour
 
             PlayerPrefs.SetInt("MaxCoin", 500);
             coinCount = PlayerPrefs.GetInt("MaxCoin");
+        }
+        if (artisMik==0)
+        {
+            PlayerPrefs.SetInt("MaxBoost", 10);
+            artisMik = PlayerPrefs.GetInt("MaxBoost");
+            Debug.Log(artisMik);
         }
         coinCount = PlayerPrefs.GetInt("MaxCoin");
         CoinText.GetComponent<TextMeshProUGUI>().text = coinCount.ToString();
