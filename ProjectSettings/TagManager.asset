@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - Fire1
+  - Enemy
+  - Kose
+  - Wall
+  - Ground
+  - CoinText
+  - Coin
+  - SpeedBoost
+  - DamageBoost
+  - HpBoost
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Wall
+  - Obstacle
+  - Parallax
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3379911907
+    locked: 0
+  - name: Foreground
+    uniqueID: 313458043
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

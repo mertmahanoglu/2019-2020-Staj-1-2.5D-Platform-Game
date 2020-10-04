@@ -1,0 +1,2732 @@
+fileFormatVersion: 2
+guid: 6d8dde2ae376eb647a84af53a49aed3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6406149483313193488
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_0
+  - first:
+      213: -2004692251754558396
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_1
+  - first:
+      213: -7138709773644533505
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_2
+  - first:
+      213: 8436572004693868356
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_3
+  - first:
+      213: -1368325230519688532
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_4
+  - first:
+      213: 7269237819748335583
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_5
+  - first:
+      213: 4059587846194762950
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_6
+  - first:
+      213: 5774874288734757362
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_7
+  - first:
+      213: -6604365979083751525
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_8
+  - first:
+      213: -3190275307075714637
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_9
+  - first:
+      213: -463386109907613525
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_10
+  - first:
+      213: -2428607135626502489
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_11
+  - first:
+      213: 5563869606818179466
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_12
+  - first:
+      213: 7584798352303750904
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_13
+  - first:
+      213: 2115384544562442039
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_14
+  - first:
+      213: 5262282070012338784
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_15
+  - first:
+      213: -5532163016052807904
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_16
+  - first:
+      213: -7329675768091843756
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_17
+  - first:
+      213: -4335395337366017310
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_18
+  - first:
+      213: 4178554281468808880
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_19
+  - first:
+      213: -3933484070064510547
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_20
+  - first:
+      213: 626810697042880285
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_21
+  - first:
+      213: -550644983877883117
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_22
+  - first:
+      213: 2038068253743859129
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_23
+  - first:
+      213: -1797035483896056959
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_24
+  - first:
+      213: 876973109046730074
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_25
+  - first:
+      213: -8540343102839783886
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_26
+  - first:
+      213: -4895119577958413909
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_27
+  - first:
+      213: 1539025321530970360
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_28
+  - first:
+      213: -3039428749781444292
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_29
+  - first:
+      213: 6217560118161506591
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_30
+  - first:
+      213: -5601388713068931862
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_31
+  - first:
+      213: -2149573813932896629
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_32
+  - first:
+      213: 5650824067885931222
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_33
+  - first:
+      213: 6204125058552228935
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_34
+  - first:
+      213: -173315666816768210
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_35
+  - first:
+      213: -641038570190302948
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_36
+  - first:
+      213: -4117995568730898599
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_37
+  - first:
+      213: -3568976378395406731
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_38
+  - first:
+      213: -8602089160654311355
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_39
+  - first:
+      213: -4237291800992614565
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_40
+  - first:
+      213: -2264859892890496323
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_41
+  - first:
+      213: 5791701851112320975
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_42
+  - first:
+      213: 340691525829353607
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_43
+  - first:
+      213: 4359479906023115078
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_44
+  - first:
+      213: -4948127173556030957
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_45
+  - first:
+      213: 8850070489843143372
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_46
+  - first:
+      213: 8164936725956004301
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_47
+  - first:
+      213: 3888440277917236360
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_48
+  - first:
+      213: 7155512211045655092
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_49
+  - first:
+      213: 992919103047083720
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_50
+  - first:
+      213: 4749258430900060723
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_51
+  - first:
+      213: -761766518918440940
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_52
+  - first:
+      213: 2597014557788314267
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_53
+  - first:
+      213: 9142202991690940116
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_54
+  - first:
+      213: -4314692710114386924
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_55
+  - first:
+      213: -1197793632791432592
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_56
+  - first:
+      213: 4216423322464822872
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_57
+  - first:
+      213: -9218652043008608058
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_58
+  - first:
+      213: -1001588917943904044
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_59
+  - first:
+      213: -6360195724934377150
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_60
+  - first:
+      213: -2082636828591027709
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_61
+  - first:
+      213: 5068076589761478354
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_62
+  - first:
+      213: -9156115054561853358
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_63
+  - first:
+      213: -7030532829394127533
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_64
+  - first:
+      213: -7077151756071514400
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_65
+  - first:
+      213: -6448327440125926279
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_66
+  - first:
+      213: 468303358075204033
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_67
+  - first:
+      213: 1632371717720687095
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_68
+  - first:
+      213: 583154295134230328
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_69
+  - first:
+      213: -9159151802834153039
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_70
+  - first:
+      213: -6364830095303172073
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_71
+  - first:
+      213: -5422197696863414442
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_72
+  - first:
+      213: -8908571777182254344
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_73
+  - first:
+      213: -817455248260500228
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_74
+  - first:
+      213: 3536284925848046889
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_75
+  - first:
+      213: 7567961077134958708
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_76
+  - first:
+      213: -8526850156297524096
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_77
+  - first:
+      213: -6133547351156327552
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_78
+  - first:
+      213: -237282911666176575
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_79
+  - first:
+      213: 905017658141457107
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_80
+  - first:
+      213: -8610166939257323888
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_81
+  - first:
+      213: 7305746230507296580
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_82
+  - first:
+      213: -7516315309523735448
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_83
+  - first:
+      213: 4909477736871993022
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_84
+  - first:
+      213: -1698657243559980269
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_85
+  - first:
+      213: -7088298098754451245
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_86
+  - first:
+      213: 1901832229502967647
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_87
+  - first:
+      213: -1358156673175435302
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_88
+  - first:
+      213: -9048975381217345769
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_89
+  - first:
+      213: 8613238286538929899
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_90
+  - first:
+      213: -6159574539553789186
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_91
+  - first:
+      213: 7899867235847967912
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_92
+  - first:
+      213: -7596708306155261264
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_93
+  - first:
+      213: 3171442567626568704
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_94
+  - first:
+      213: -409633542097891760
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_95
+  - first:
+      213: 40454977435605721
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_96
+  - first:
+      213: 6515957022818745364
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_97
+  - first:
+      213: -8460275945091815950
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_98
+  - first:
+      213: 8187026287118680136
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_99
+  - first:
+      213: 76380459915576829
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_100
+  - first:
+      213: -8773160561318820602
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_101
+  - first:
+      213: -5362035953851172853
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_102
+  - first:
+      213: -5036091779191396790
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_103
+  - first:
+      213: 5701007146103735167
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_104
+  - first:
+      213: -6422829757593636806
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_105
+  - first:
+      213: -4937020982851541324
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_106
+  - first:
+      213: 3385488653119560989
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_107
+  - first:
+      213: -119479479208715804
+    second: 3DS - Kid Icarus Uprising - Weapon Icons_108
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0126fea830737e850800000000000000
+      internalID: 6406149483313193488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c0132b407ed24e0800000000000000
+      internalID: -2004692251754558396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 350
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0fe4b88453eec90800000000000000
+      internalID: -7138709773644533505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f78c51a89b41570800000000000000
+      internalID: 8436572004693868356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca26ba9d37bb20de0800000000000000
+      internalID: -1368325230519688532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 350
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf3fe1784581e460800000000000000
+      internalID: 7269237819748335583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 351
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c49ee233ad865830800000000000000
+      internalID: 4059587846194762950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1629aa199742050800000000000000
+      internalID: 5774874288734757362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fb90a22249854a0800000000000000
+      internalID: -6604365979083751525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b14d02d28dd9b3d0800000000000000
+      internalID: -3190275307075714637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba84b15c9c8b199f0800000000000000
+      internalID: -463386109907613525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed00e6daadb4ed0800000000000000
+      internalID: -2428607135626502489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a896df2cde5d63d40800000000000000
+      internalID: 5563869606818179466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe780a5aed924960800000000000000
+      internalID: 7584798352303750904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73feef5190b5b5d10800000000000000
+      internalID: 2115384544562442039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0622ef279a1670940800000000000000
+      internalID: 5262282070012338784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0276e9c2c0fc933b0800000000000000
+      internalID: -5532163016052807904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453e81429b2c74a90800000000000000
+      internalID: -7329675768091843756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 315
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eae96b19e495d3c0800000000000000
+      internalID: -4335395337366017310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bec2a5eaf43df930800000000000000
+      internalID: 4178554281468808880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9a52a24157969c0800000000000000
+      internalID: -3933484070064510547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e7aa0201e2b800800000000000000
+      internalID: 626810697042880285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bab9afd47bb58f0800000000000000
+      internalID: -550644983877883117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b54764574ca84c10800000000000000
+      internalID: 2038068253743859129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1837a9d9fb5af07e0800000000000000
+      internalID: -1797035483896056959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ddc427562ab2c00800000000000000
+      internalID: 876973109046730074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ef647523b9a7980800000000000000
+      internalID: -8540343102839783886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98ab6edaa011cb0800000000000000
+      internalID: -4895119577958413909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 281
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f05f263067bb5510800000000000000
+      internalID: 1539025321530970360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39da29d7a7c1d5d0800000000000000
+      internalID: -3039428749781444292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1107a44cf5394650800000000000000
+      internalID: 6217560118161506591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d4a494aed342b0800000000000000
+      internalID: -5601388713068931862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e4c02510e2b22e0800000000000000
+      internalID: -2149573813932896629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da9196ec82cb6e40800000000000000
+      internalID: 5650824067885931222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cea11beda791650800000000000000
+      internalID: 6204125058552228935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_35
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27606db152489df0800000000000000
+      internalID: -173315666816768210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119b7811d29a17f0800000000000000
+      internalID: -641038570190302948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f792b29d0f9d6c0800000000000000
+      internalID: -4117995568730898599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e4bf1a4e2787ec0800000000000000
+      internalID: -3568976378395406731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54036f4fb7d3f9880800000000000000
+      internalID: -8602089160654311355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57f820ae8d1235c0800000000000000
+      internalID: -4237291800992614565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db29b3a5de99190e0800000000000000
+      internalID: -2264859892890496323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_42
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 213
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa588d522406050800000000000000
+      internalID: 5791701851112320975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7806b0f33216ab400800000000000000
+      internalID: 340691525829353607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 214
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64906f380ebff7c30800000000000000
+      internalID: 4359479906023115078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123cbc4d88b45bb0800000000000000
+      internalID: -4948127173556030957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc294488834c1da70800000000000000
+      internalID: 8850070489843143372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9062c41beaf4170800000000000000
+      internalID: 8164936725956004301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf397b4d386f530800000000000000
+      internalID: 3888440277917236360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a855c17c7d4360800000000000000
+      internalID: 7155512211045655092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c622dbd9ae87cd00800000000000000
+      internalID: 992919103047083720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_51
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 179
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c3585161c8e140800000000000000
+      internalID: 4749258430900060723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41894161369ad65f0800000000000000
+      internalID: -761766518918440940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_53
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9d711bf27a0420800000000000000
+      internalID: 2597014557788314267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de7048fe21afde70800000000000000
+      internalID: 9142202991690940116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_55
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c1aa227d12f14c0800000000000000
+      internalID: -4314692710114386924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072fd338905906fe0800000000000000
+      internalID: -1197793632791432592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85620361caeb38a30800000000000000
+      internalID: 4216423322464822872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8fa843fc4c01080800000000000000
+      internalID: -9218652043008608058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d85cfe8f24a912f0800000000000000
+      internalID: -1001588917943904044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24114599fab0cb7a0800000000000000
+      internalID: -6360195724934377150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a8fa3b6dcf813e0800000000000000
+      internalID: -2082636828591027709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deb43b7ecc655640800000000000000
+      internalID: 5068076589761478354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2500c3a7ed1fee080800000000000000
+      internalID: -9156115054561853358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355bd3a14a78e6e90800000000000000
+      internalID: -7030532829394127533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_65
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee43d569f7e8cd90800000000000000
+      internalID: -7077151756071514400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_66
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e3ef9b50f286a0800000000000000
+      internalID: -6448327440125926279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_67
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f1394c6fbf7600800000000000000
+      internalID: 468303358075204033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_68
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1c228bd6957a610800000000000000
+      internalID: 1632371717720687095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83718b2edb7c71800800000000000000
+      internalID: 583154295134230328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1113c66f724e080800000000000000
+      internalID: -9159151802834153039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_71
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7102db920c49ba7a0800000000000000
+      internalID: -6364830095303172073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_72
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d3883ceb70c4b0800000000000000
+      internalID: -5422197696863414442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa3bf41b256e5480800000000000000
+      internalID: -8908571777182254344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_74
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf477a368c0d7a4f0800000000000000
+      internalID: -817455248260500228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_75
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dcdbd6768631130800000000000000
+      internalID: 3536284925848046889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470ac9cb08cc60960800000000000000
+      internalID: 7567961077134958708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ce6e4c5fa8aa980800000000000000
+      internalID: -8526850156297524096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_78
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf9495e2341eaa0800000000000000
+      internalID: -6133547351156327552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_79
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdfdd2f27005bcf0800000000000000
+      internalID: -237282911666176575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da3afcd3c44f8c00800000000000000
+      internalID: 905017658141457107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_81
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e31c099ca828880800000000000000
+      internalID: -8610166939257323888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_82
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44759883d79336560800000000000000
+      internalID: 7305746230507296580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ce1049c0fa0b790800000000000000
+      internalID: -7516315309523735448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_84
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe91fa7df7f12440800000000000000
+      internalID: 4909477736871993022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_85
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3139672ac382d68e0800000000000000
+      internalID: -1698657243559980269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_86
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d80aa14f6e41ad90800000000000000
+      internalID: -7088298098754451245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_87
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fd9ed165aa46a10800000000000000
+      internalID: 1901832229502967647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad74d0a93bbd62de0800000000000000
+      internalID: -1358156673175435302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_89
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff84595d49b6280800000000000000
+      internalID: -9048975381217345769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be672f2369e588770800000000000000
+      internalID: 8613238286538929899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_91
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa2b52579bc48aa0800000000000000
+      internalID: -6159574539553789186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4177d4567f1ad60800000000000000
+      internalID: 7899867235847967912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_93
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b23b5d6b02139690800000000000000
+      internalID: -7596708306155261264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_94
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0043fe4563a330c20800000000000000
+      internalID: 3171442567626568704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_95
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 46
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e8b2bb670b05af0800000000000000
+      internalID: -409633542097891760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_96
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da127f6699bf8000800000000000000
+      internalID: 40454977435605721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_97
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cb2d4a3645d6a50800000000000000
+      internalID: 6515957022818745364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_98
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f525073adf079a80800000000000000
+      internalID: -8460275945091815950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_99
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8408e7a08092e9170800000000000000
+      internalID: 8187026287118680136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_100
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58c05af9b5f0100800000000000000
+      internalID: 76380459915576829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6050021a3f87f3680800000000000000
+      internalID: -8773160561318820602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_102
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f3d195b83695b0800000000000000
+      internalID: -5362035953851172853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_103
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46280d85353c1ab0800000000000000
+      internalID: -5036091779191396790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f730a7d4bcb0e1f40800000000000000
+      internalID: 5701007146103735167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_105
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b2d57d568dd6a0800000000000000
+      internalID: -6422829757593636806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_106
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6eb74d29d2c7bb0800000000000000
+      internalID: -4937020982851541324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_107
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d9e403efbabfe20800000000000000
+      internalID: 3385488653119560989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Kid Icarus Uprising - Weapon Icons_108
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d0d3fb06875ef0800000000000000
+      internalID: -119479479208715804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

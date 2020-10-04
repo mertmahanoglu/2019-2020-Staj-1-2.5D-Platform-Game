@@ -1,0 +1,6812 @@
+fileFormatVersion: 2
+guid: 28a07146ea374a54eaf1381b98cea6ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8488350601310009351
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_0
+  - first:
+      213: 4670210649061381875
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_1
+  - first:
+      213: 3250890296801721937
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_2
+  - first:
+      213: -2399784139810485239
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_3
+  - first:
+      213: -2399186695292685671
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_4
+  - first:
+      213: 3996399526926288843
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_5
+  - first:
+      213: -1194114536862573288
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_6
+  - first:
+      213: -3043963910114515098
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_7
+  - first:
+      213: -7083192639514451531
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_8
+  - first:
+      213: 3698161138087736594
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_9
+  - first:
+      213: -2274595311946901415
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_10
+  - first:
+      213: -830457259224752581
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_11
+  - first:
+      213: 8316953294234434906
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_12
+  - first:
+      213: -3827003248076666090
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_13
+  - first:
+      213: -4330748142233951147
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_14
+  - first:
+      213: -3297628238932554006
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_15
+  - first:
+      213: 2742397459834019132
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_16
+  - first:
+      213: 6036501337153361481
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_17
+  - first:
+      213: -2512501601443076691
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_18
+  - first:
+      213: 3719531907800046789
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_19
+  - first:
+      213: -9101815244266167070
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_20
+  - first:
+      213: 8214904698034380578
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_21
+  - first:
+      213: 6349797935047077639
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_22
+  - first:
+      213: -7066187804096476568
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_23
+  - first:
+      213: -1311270601278205299
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_24
+  - first:
+      213: 1168938840993996931
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_25
+  - first:
+      213: -8305252754210438743
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_26
+  - first:
+      213: -2784356661359464834
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_27
+  - first:
+      213: -8725836922706550581
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_28
+  - first:
+      213: 4476860883702395357
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_29
+  - first:
+      213: 3805638607881587357
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_30
+  - first:
+      213: 6827657021527053906
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_31
+  - first:
+      213: -8185350888877551844
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_32
+  - first:
+      213: -4519300803513648691
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_33
+  - first:
+      213: -5770781174618326866
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_34
+  - first:
+      213: -7361093003566269758
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_35
+  - first:
+      213: 4417317459753815272
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_36
+  - first:
+      213: 4941683232029061718
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_37
+  - first:
+      213: 9108361692213741242
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_38
+  - first:
+      213: -1676521019006051503
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_39
+  - first:
+      213: -1191374377668392137
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_40
+  - first:
+      213: 1348074393102324819
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_41
+  - first:
+      213: -4815864552144481926
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_42
+  - first:
+      213: 1697772745827882457
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_43
+  - first:
+      213: -4845034130644867016
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_44
+  - first:
+      213: -731928738444193365
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_45
+  - first:
+      213: 3374145497834662661
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_46
+  - first:
+      213: -4327320158314036731
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_47
+  - first:
+      213: 8796754339918274315
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_48
+  - first:
+      213: 7495604332763944946
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_49
+  - first:
+      213: 5700541254732836614
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_50
+  - first:
+      213: -4645858197484609520
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_51
+  - first:
+      213: -3909324253315143126
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_52
+  - first:
+      213: 7933902193297781472
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_53
+  - first:
+      213: -8143733207470147746
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_54
+  - first:
+      213: 3261891568733491677
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_55
+  - first:
+      213: 7602352838827723100
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_56
+  - first:
+      213: -713189378356175765
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_57
+  - first:
+      213: -8892358199117271585
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_58
+  - first:
+      213: -7669003099411252472
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_59
+  - first:
+      213: -8652894145205874877
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_60
+  - first:
+      213: 1185554662695426586
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_61
+  - first:
+      213: -2783228073238761540
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_62
+  - first:
+      213: 4291580459583275655
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_63
+  - first:
+      213: 4753626709573208161
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_64
+  - first:
+      213: -6430773486271802043
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_65
+  - first:
+      213: -3561306503134254969
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_66
+  - first:
+      213: 185380063510387363
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_67
+  - first:
+      213: -6111098853571220391
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_68
+  - first:
+      213: 5041030022844616789
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_69
+  - first:
+      213: -5168635468112084026
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_70
+  - first:
+      213: -6698376626731600871
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_71
+  - first:
+      213: 5664243810255780984
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_72
+  - first:
+      213: -7379161233187318294
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_73
+  - first:
+      213: 3415793007417982984
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_74
+  - first:
+      213: 2675622445101625234
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_75
+  - first:
+      213: -7341143625507517538
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_76
+  - first:
+      213: 5931451489125473567
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_77
+  - first:
+      213: -2597165672836823981
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_78
+  - first:
+      213: -3328620480469147140
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_79
+  - first:
+      213: -7305477620680693691
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_80
+  - first:
+      213: 2580084673513502402
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_81
+  - first:
+      213: 4687765625661111747
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_82
+  - first:
+      213: -4257224242252802661
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_83
+  - first:
+      213: 8781154460219961301
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_84
+  - first:
+      213: -141434474760943258
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_85
+  - first:
+      213: 7419051998331402015
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_86
+  - first:
+      213: 3278836599754983899
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_87
+  - first:
+      213: -5560256939171123607
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_88
+  - first:
+      213: -7043301047842502209
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_89
+  - first:
+      213: -8267556111614582486
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_90
+  - first:
+      213: 2493034021043236015
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_91
+  - first:
+      213: -4772695737645760176
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_92
+  - first:
+      213: -8883426104793621735
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_93
+  - first:
+      213: -4341525647368352905
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_94
+  - first:
+      213: 5926073012298744617
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_95
+  - first:
+      213: -2249402129579252389
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_96
+  - first:
+      213: 8518583534943578443
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_97
+  - first:
+      213: 8071520026701997183
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_98
+  - first:
+      213: -2094417096554852848
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_99
+  - first:
+      213: -1190824646344733385
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_100
+  - first:
+      213: -6937583081669007955
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_101
+  - first:
+      213: -3271377661765668506
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_102
+  - first:
+      213: -8019017550218419357
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_103
+  - first:
+      213: 4207409585608435297
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_104
+  - first:
+      213: 3485874194276051088
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_105
+  - first:
+      213: -2250313658462322194
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_106
+  - first:
+      213: 1556796958245083073
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_107
+  - first:
+      213: -3993277711140420911
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_108
+  - first:
+      213: -1219179696251011244
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_109
+  - first:
+      213: 3122700947305197791
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_110
+  - first:
+      213: -5124594887557775593
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_111
+  - first:
+      213: 3997041834741174540
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_112
+  - first:
+      213: -985994494441583346
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_113
+  - first:
+      213: -4172599189864509986
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_114
+  - first:
+      213: 9024902385631825867
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_115
+  - first:
+      213: 8260344446591547550
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_116
+  - first:
+      213: 1324068723026491335
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_117
+  - first:
+      213: -8649448028392724176
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_118
+  - first:
+      213: -6530425744627168637
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_119
+  - first:
+      213: -9200906294062646105
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_120
+  - first:
+      213: -1746657622427853511
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_121
+  - first:
+      213: 6815485603591471259
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_122
+  - first:
+      213: 9119174304982829276
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_123
+  - first:
+      213: 8889598406651724469
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_124
+  - first:
+      213: -1528637875427904045
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_125
+  - first:
+      213: 2300652080503167178
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_126
+  - first:
+      213: 3630345159717476790
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_127
+  - first:
+      213: 2641873121838097675
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_128
+  - first:
+      213: 2172732461911032055
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_129
+  - first:
+      213: -4757075182891482131
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_130
+  - first:
+      213: -4019972032240522903
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_131
+  - first:
+      213: 3457290320286991345
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_132
+  - first:
+      213: -5321686555286910418
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_133
+  - first:
+      213: -8900492671479255153
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_134
+  - first:
+      213: 9085553983183207974
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_135
+  - first:
+      213: -5471326334544946677
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_136
+  - first:
+      213: 3821450718195095471
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_137
+  - first:
+      213: 8769613324448793779
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_138
+  - first:
+      213: 3653324669225684752
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_139
+  - first:
+      213: 6634725453397230022
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_140
+  - first:
+      213: 2751432699758859641
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_141
+  - first:
+      213: 2291737967357358359
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_142
+  - first:
+      213: -5893723543239099835
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_143
+  - first:
+      213: 7757237866781638921
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_144
+  - first:
+      213: -1293063290064564787
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_145
+  - first:
+      213: -1902908814373539507
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_146
+  - first:
+      213: 1619795847893669911
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_147
+  - first:
+      213: -556689018322301493
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_148
+  - first:
+      213: 4405937681875383565
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_149
+  - first:
+      213: 3923868034122385254
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_150
+  - first:
+      213: -8822979346773798933
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_151
+  - first:
+      213: -5685055781232967979
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_152
+  - first:
+      213: 3863455734303741869
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_153
+  - first:
+      213: 8580842863991980876
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_154
+  - first:
+      213: 7707717399596146843
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_155
+  - first:
+      213: 3685449020438597281
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_156
+  - first:
+      213: 8817928423412389908
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_157
+  - first:
+      213: 7996842964089310361
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_158
+  - first:
+      213: 9146337792659717243
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_159
+  - first:
+      213: -1036517636034599301
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_160
+  - first:
+      213: -7186757659870376706
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_161
+  - first:
+      213: -8652497215591905863
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_162
+  - first:
+      213: 5485872836654094835
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_163
+  - first:
+      213: -6378096001438727998
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_164
+  - first:
+      213: -2736185620611592511
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_165
+  - first:
+      213: -2694953108208600226
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_166
+  - first:
+      213: -8442719233280934934
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_167
+  - first:
+      213: 1836736590593620593
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_168
+  - first:
+      213: 4403023433338437957
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_169
+  - first:
+      213: -4301557424999249632
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_170
+  - first:
+      213: 5113937738669406256
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_171
+  - first:
+      213: 7391528576388957432
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_172
+  - first:
+      213: 5892110900711236001
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_173
+  - first:
+      213: -7899908756881336158
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_174
+  - first:
+      213: -488531204804573759
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_175
+  - first:
+      213: -7876472377398968625
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_176
+  - first:
+      213: 7932330257937127256
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_177
+  - first:
+      213: 5509398085096404524
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_178
+  - first:
+      213: 333942127268967167
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_179
+  - first:
+      213: 2168867327919384605
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_180
+  - first:
+      213: 889003751458791562
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_181
+  - first:
+      213: -3261159313596284999
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_182
+  - first:
+      213: -2798000833004247717
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_183
+  - first:
+      213: -7092277235334032820
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_184
+  - first:
+      213: -8618128594615738210
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_185
+  - first:
+      213: 7773072948353498835
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_186
+  - first:
+      213: 1225905070663231214
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_187
+  - first:
+      213: 7221926674824616555
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_188
+  - first:
+      213: 2967326226463224204
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_189
+  - first:
+      213: 4361157949901708216
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_190
+  - first:
+      213: -579401810974061783
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_191
+  - first:
+      213: -9058998900361894943
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_192
+  - first:
+      213: 4921461534355483479
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_193
+  - first:
+      213: 7624777078872680871
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_194
+  - first:
+      213: 6975168248911843577
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_195
+  - first:
+      213: 677537464095211323
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_196
+  - first:
+      213: -8740316299944984472
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_197
+  - first:
+      213: -4127205407848352061
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_198
+  - first:
+      213: 4398606209175757946
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_199
+  - first:
+      213: -2662454082997508202
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_200
+  - first:
+      213: 3448193352197207753
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_201
+  - first:
+      213: -3962220418715293665
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_202
+  - first:
+      213: 4377463185399961914
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_203
+  - first:
+      213: 3510281491937983016
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_204
+  - first:
+      213: -5901752642290129674
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_205
+  - first:
+      213: 8053031446498030520
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_206
+  - first:
+      213: -8105119407288458147
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_207
+  - first:
+      213: 3505853779804188696
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_208
+  - first:
+      213: 2803547879306747035
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_209
+  - first:
+      213: 5241234599015143724
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_210
+  - first:
+      213: -7857588616516124663
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_211
+  - first:
+      213: -7944498390911758698
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_212
+  - first:
+      213: 9156101737705761515
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_213
+  - first:
+      213: 1473826619342573950
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_214
+  - first:
+      213: -4090399788881636661
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_215
+  - first:
+      213: 2190211043550488429
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_216
+  - first:
+      213: -4562577840031857603
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_217
+  - first:
+      213: -1793687110016310335
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_218
+  - first:
+      213: 2536598125723447889
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_219
+  - first:
+      213: -5454414142492350512
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_220
+  - first:
+      213: -7800653117457355018
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_221
+  - first:
+      213: -1314807409459188991
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_222
+  - first:
+      213: -8239915746308308574
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_223
+  - first:
+      213: 2265502152503487001
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_224
+  - first:
+      213: 792413304150624825
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_225
+  - first:
+      213: 2174392945568898085
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_226
+  - first:
+      213: -1795668490987969745
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_227
+  - first:
+      213: 1118391924474811841
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_228
+  - first:
+      213: 4820248398826216343
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_229
+  - first:
+      213: 313160048578949603
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_230
+  - first:
+      213: 5872669722928561192
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_231
+  - first:
+      213: 579020784879232179
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_232
+  - first:
+      213: 3177811938074530091
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_233
+  - first:
+      213: 8602055064257111788
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_234
+  - first:
+      213: -9192982622827713048
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_235
+  - first:
+      213: -3923937962621556842
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_236
+  - first:
+      213: -3617488261097550862
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_237
+  - first:
+      213: 5373212958696543248
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_238
+  - first:
+      213: -519575763144309751
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_239
+  - first:
+      213: 8855662331403308932
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_240
+  - first:
+      213: 3895459737112767185
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_241
+  - first:
+      213: 2415460599801134819
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_242
+  - first:
+      213: 3541395144876743654
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_243
+  - first:
+      213: -3620483802229947678
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_244
+  - first:
+      213: -4484864503262684508
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_245
+  - first:
+      213: 8223621672474620436
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_246
+  - first:
+      213: 5815327642631921979
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_247
+  - first:
+      213: -3383933895646174589
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_248
+  - first:
+      213: 8326798025265044163
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_249
+  - first:
+      213: -1843763436943026595
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_250
+  - first:
+      213: -3037502183591785820
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_251
+  - first:
+      213: -2739844977788049842
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_252
+  - first:
+      213: -4694273652502366823
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_253
+  - first:
+      213: -9186433020898905140
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_254
+  - first:
+      213: 5293214352635331009
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_255
+  - first:
+      213: 120534669854899739
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_256
+  - first:
+      213: -7110824906425886182
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_257
+  - first:
+      213: 6020713467061238703
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_258
+  - first:
+      213: 8853015515078196156
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_259
+  - first:
+      213: 5031848381993586263
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_260
+  - first:
+      213: 7717054774521012958
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_261
+  - first:
+      213: -67851063627903421
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_262
+  - first:
+      213: 5482309438698098526
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_263
+  - first:
+      213: 2274332105303848276
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_264
+  - first:
+      213: 7845476772342896361
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_265
+  - first:
+      213: 7804502727207067078
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_266
+  - first:
+      213: 3062726359810140577
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_267
+  - first:
+      213: 2142285296434437538
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_268
+  - first:
+      213: 1428685410133206447
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_269
+  - first:
+      213: -7863472742465996068
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_270
+  - first:
+      213: -6731376329575159785
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_271
+  - first:
+      213: 2454869019055597752
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_272
+  - first:
+      213: -2080143320334220098
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_273
+  - first:
+      213: 7895670534591196967
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_274
+  - first:
+      213: -3073366759607587146
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_275
+  - first:
+      213: -6918500758712028767
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_276
+  - first:
+      213: -4222273248070026606
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_277
+  - first:
+      213: -594056478183962910
+    second: PC Computer - Sonic 2 HD - Fire Projectiles_278
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 329
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f781ffe912533a80800000000000000
+      internalID: -8488350601310009351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1273
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6dc8b67dbefc040800000000000000
+      internalID: 4670210649061381875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1273
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e71a0408b7d1d20800000000000000
+      internalID: 3250890296801721937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1272
+        width: 82
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ccaf81a0142bed0800000000000000
+      internalID: -2399784139810485239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1273
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927c3d796064bed0800000000000000
+      internalID: -2399186695292685671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1273
+        width: 83
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc70bf62230167730800000000000000
+      internalID: 3996399526926288843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1272
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d1d29c727ad6fe0800000000000000
+      internalID: -1194114536862573288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1272
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667e38c83faa1c5d0800000000000000
+      internalID: -3043963910114515098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_8
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1272
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1641e92d173bd90800000000000000
+      internalID: -7083192639514451531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_9
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1272
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215bfdd16f1825330800000000000000
+      internalID: 3698161138087736594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_10
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1104
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d2a77d930f60e0800000000000000
+      internalID: -2274595311946901415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_11
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 1294
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e93cec58f9974f0800000000000000
+      internalID: -830457259224752581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_12
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1286
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dbb5cb4f0cb6370800000000000000
+      internalID: 8316953294234434906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_13
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1264
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bcf1c72d0c3eac0800000000000000
+      internalID: -3827003248076666090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1222
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554667a828716e3c0800000000000000
+      internalID: -4330748142233951147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1222
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec02996987c32d0800000000000000
+      internalID: -3297628238932554006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_16
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1222
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d175ab5f3fe0620800000000000000
+      internalID: 2742397459834019132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_17
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1222
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946523fbbf5f5c350800000000000000
+      internalID: 6036501337153361481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_18
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1202
+        width: 117
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a264fa1dc12dd0800000000000000
+      internalID: -2512501601443076691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_19
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1262
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc172f209e6e9330800000000000000
+      internalID: 3719531907800046789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_20
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1203
+        width: 117
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a742424bdfa180800000000000000
+      internalID: -9101815244266167070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_21
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1203
+        width: 123
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fd6066c44310270800000000000000
+      internalID: 8214904698034380578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_22
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1205
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f6df944930f1850800000000000000
+      internalID: 6349797935047077639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_23
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1205
+        width: 122
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac1a461abdfed90800000000000000
+      internalID: -7066187804096476568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_24
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1205
+        width: 120
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d825666e55e6dcde0800000000000000
+      internalID: -1311270601278205299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_25
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1203
+        width: 126
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380aa9dbea7e83010800000000000000
+      internalID: 1168938840993996931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_26
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1183
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1c3778f90ddbc80800000000000000
+      internalID: -8305252754210438743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_27
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 1218
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e2daf5e5afb59d0800000000000000
+      internalID: -2784356661359464834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_28
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 1181
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a61edc8997e680800000000000000
+      internalID: -8725836922706550581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_29
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 1219
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd13ce91141012e30800000000000000
+      internalID: 4476860883702395357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_30
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1181
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a4b46962850d430800000000000000
+      internalID: 3805638607881587357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_31
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1101
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2565258f2e5b0ce50800000000000000
+      internalID: 6827657021527053906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_32
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 912
+        width: 98
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f86820cbac76e80800000000000000
+      internalID: -8185350888877551844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_33
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 912
+        width: 84
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc97e6d0dd73841c0800000000000000
+      internalID: -4519300803513648691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_34
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 912
+        width: 87
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8fc5ab8111aefa0800000000000000
+      internalID: -5770781174618326866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_35
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1050
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cab1dbf9e428d990800000000000000
+      internalID: -7361093003566269758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_36
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 955
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecc1c063d67d4d30800000000000000
+      internalID: 4417317459753815272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_37
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 912
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b895a7b2649440800000000000000
+      internalID: 4941683232029061718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_38
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 911
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab60d2e63b6676e70800000000000000
+      internalID: 9108361692213741242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_39
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1007
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b1bab040dcbb8e0800000000000000
+      internalID: -1676521019006051503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_40
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 1014
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bc290d053677fe0800000000000000
+      internalID: -1191374377668392137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_41
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1022
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3541aa3a48255b210800000000000000
+      internalID: 1348074393102324819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_42
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 912
+        width: 89
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71580394bc9a2db0800000000000000
+      internalID: -4815864552144481926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 960
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d519603153bf8710800000000000000
+      internalID: 1697772745827882457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_44
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 952
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838e446d02bf2ccb0800000000000000
+      internalID: -4845034130644867016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_45
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 950
+        width: 109
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba15228b0baa7d5f0800000000000000
+      internalID: -731928738444193365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_46
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 949
+        width: 123
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b2bea047f53de20800000000000000
+      internalID: 3374145497834662661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_47
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 914
+        width: 106
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020e4e3e3542f3c0800000000000000
+      internalID: -4327320158314036731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_48
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 924
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f54370779541a70800000000000000
+      internalID: 8796754339918274315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_49
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 922
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7164f5d6cb50860800000000000000
+      internalID: 7495604332763944946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_50
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 930
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f6fc381146c1f40800000000000000
+      internalID: 5700541254732836614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_51
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 936
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e71e8598968fb0800000000000000
+      internalID: -4645858197484609520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_52
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 931
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ae459dd4a4fb9c0800000000000000
+      internalID: -3909324253315143126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_53
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 917
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f43a5202ea1e60800000000000000
+      internalID: 7933902193297781472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_54
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 924
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57703f8bc5abfe80800000000000000
+      internalID: -8143733207470147746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_55
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 876
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1933a7911944d20800000000000000
+      internalID: 3261891568733491677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_56
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 870
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59428fb0abf08960800000000000000
+      internalID: 7602352838827723100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_57
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 868
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c9f7df90e3a16f0800000000000000
+      internalID: -713189378356175765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_58
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 849
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd2516e45ff79480800000000000000
+      internalID: -8892358199117271585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_59
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 773
+        width: 178
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf83e205a329590800000000000000
+      internalID: -7669003099411252472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_60
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 772
+        width: 212
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f42f3be9ebae780800000000000000
+      internalID: -8652894145205874877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_61
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 767
+        width: 261
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ad4c33fafe37010800000000000000
+      internalID: 1185554662695426586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_62
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 767
+        width: 292
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf65b540dcff59d0800000000000000
+      internalID: -2783228073238761540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_63
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 765
+        width: 317
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7820872b0b1ce8b30800000000000000
+      internalID: 4291580459583275655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_64
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 833
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1688bea7e4648f140800000000000000
+      internalID: 4753626709573208161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_65
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 734
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d4cff59d41c6a0800000000000000
+      internalID: -6430773486271802043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_66
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 823
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788e460aa92b39ec0800000000000000
+      internalID: -3561306503134254969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_67
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 732
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad9f18f2a929200800000000000000
+      internalID: 185380063510387363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_68
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 826
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c279d78f3013ba0800000000000000
+      internalID: -6111098853571220391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_69
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 835
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5509bb5e81655f540800000000000000
+      internalID: 5041030022844616789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_70
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 734
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c1b52d615548b0800000000000000
+      internalID: -5168635468112084026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_71
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 835
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91432ef82f59a03a0800000000000000
+      internalID: -6698376626731600871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_72
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 715
+        width: 99
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c30872cbf6b9e40800000000000000
+      internalID: 5664243810255780984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_73
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 734
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5598374f3f79990800000000000000
+      internalID: -7379161233187318294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_74
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 732
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800896184a5576f20800000000000000
+      internalID: 3415793007417982984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_75
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 734
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f28511078b12520800000000000000
+      internalID: 2675622445101625234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_76
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b408484c40f1a90800000000000000
+      internalID: -7341143625507517538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_77
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 555
+        width: 79
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d19c304bfb05250800000000000000
+      internalID: 5931451489125473567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_78
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 664
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35409b7b49305fbd0800000000000000
+      internalID: -2597165672836823981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_79
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 664
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1eb8d0f4d5ec1d0800000000000000
+      internalID: -3328620480469147140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_80
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 678
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e2c06fcabd9a90800000000000000
+      internalID: -7305477620680693691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_81
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 555
+        width: 83
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b337375d4ec320800000000000000
+      internalID: 2580084673513502402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_82
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 683
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd31dbeff94e0140800000000000000
+      internalID: 4687765625661111747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_83
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 555
+        width: 80
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95175f7b1d4be4c0800000000000000
+      internalID: -4257224242252802661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_84
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 683
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df6f3ff47decd970800000000000000
+      internalID: 8781154460219961301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_85
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 664
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66941e43816890ef0800000000000000
+      internalID: -141434474760943258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_86
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 677
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17f1b21c74c5f660800000000000000
+      internalID: 7419051998331402015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_87
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 658
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd902f4f384c08d20800000000000000
+      internalID: 3278836599754983899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_88
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 592
+        width: 341
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eedc8f5cff5d2b0800000000000000
+      internalID: -5560256939171123607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_89
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 596
+        width: 357
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb90635930b214e90800000000000000
+      internalID: -7043301047842502209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_90
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 601
+        width: 369
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a216a96158db34d80800000000000000
+      internalID: -8267556111614582486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_91
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 599
+        width: 374
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facee35cb39099220800000000000000
+      internalID: 2493034021043236015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_92
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 599
+        width: 376
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0518a90738af3cdb0800000000000000
+      internalID: -4772695737645760176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_93
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 656
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b185b260bb7b480800000000000000
+      internalID: -8883426104793621735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_94
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 670
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b8c551d6dcfb3c0800000000000000
+      internalID: -4341525647368352905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_95
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 555
+        width: 80
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923881bc104ad3250800000000000000
+      internalID: 5926073012298744617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_96
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 662
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55eb655ea488c0e0800000000000000
+      internalID: -2249402129579252389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_97
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 665
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49adc57796183670800000000000000
+      internalID: 8518583534943578443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_98
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 649
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74260513bcc30070800000000000000
+      internalID: 8071520026701997183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_99
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 639
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ec7545fb22fe2e0800000000000000
+      internalID: -2094417096554852848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_100
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 655
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d87dc1b47597fe0800000000000000
+      internalID: -1190824646344733385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_101
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 655
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5eb51b1f0c8bf90800000000000000
+      internalID: -6937583081669007955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_102
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 658
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6613f40695bb992d0800000000000000
+      internalID: -3271377661765668506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_103
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 643
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363ab9f460ab6b090800000000000000
+      internalID: -8019017550218419357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_104
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 555
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166a3cee9b8b36a30800000000000000
+      internalID: 4207409585608435297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_105
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 655
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09866895c10506030800000000000000
+      internalID: 3485874194276051088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_106
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 555
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1c42a76a745c0e0800000000000000
+      internalID: -2250313658462322194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_107
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 640
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c75b93d59ada9510800000000000000
+      internalID: 1556796958245083073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_108
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 623
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d28df934170598c0800000000000000
+      internalID: -3993277711140420911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_109
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 617
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ff697968a941fe0800000000000000
+      internalID: -1219179696251011244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_110
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 555
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0f6ef77ff065b20800000000000000
+      internalID: 3122700947305197791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_111
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 611
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff55dd918c1e8b0800000000000000
+      internalID: -5124594887557775593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_112
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 504
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c019f181f58587730800000000000000
+      internalID: 3997041834741174540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_113
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 510
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d81583b3b0152f0800000000000000
+      internalID: -985994494441583346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_114
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 496
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd0b0ae423f716c0800000000000000
+      internalID: -4172599189864509986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_115
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 490
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf092c57e4ee3d70800000000000000
+      internalID: 9024902385631825867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 425
+        width: 366
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b57d4283a2a270800000000000000
+      internalID: 8260344446591547550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_117
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 424
+        width: 356
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7f2360d79006210800000000000000
+      internalID: 1324068723026491335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_118
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 421
+        width: 339
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039e27c48dcf6f780800000000000000
+      internalID: -8649448028392724176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_119
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 420
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a8e6b82644f55a0800000000000000
+      internalID: -6530425744627168637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_120
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 428
+        width: 174
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac7dba5970df4080800000000000000
+      internalID: -9200906294062646105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_121
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 482
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d95f68520a2c7e0800000000000000
+      internalID: -1746657622427853511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_122
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 420
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90cbd5eb08759e50800000000000000
+      internalID: 6815485603591471259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_123
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 424
+        width: 103
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd80f5507b0dd8e70800000000000000
+      internalID: 9119174304982829276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_124
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 434
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ca58d6a23e5b70800000000000000
+      internalID: 8889598406651724469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_125
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 488
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d579ec83ff29cae0800000000000000
+      internalID: -1528637875427904045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_126
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 493
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8972ab0ee8def10800000000000000
+      internalID: 2300652080503167178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_127
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 376
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d40930b3916230800000000000000
+      internalID: 3630345159717476790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_128
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 494
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05efc86b91d9a420800000000000000
+      internalID: 2641873121838097675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_129
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 490
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ca2899a8172e10800000000000000
+      internalID: 2172732461911032055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_130
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 471
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de34de143597bfdb0800000000000000
+      internalID: -4757075182891482131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_131
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 493
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9696c434cb03638c0800000000000000
+      internalID: -4019972032240522903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_132
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 498
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34a129a33caff20800000000000000
+      internalID: 3457290320286991345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_133
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 493
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ac62206429526b0800000000000000
+      internalID: -5321686555286910418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_134
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 437
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fe28672191b7480800000000000000
+      internalID: -8900492671479255153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_135
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 468
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e354bd53f561e70800000000000000
+      internalID: 9085553983183207974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_136
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 479
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a5533efa1f114b0800000000000000
+      internalID: -5471326334544946677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_137
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 474
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa71ea86e25880530800000000000000
+      internalID: 3821450718195095471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_138
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 484
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48d4deadce3b970800000000000000
+      internalID: 8769613324448793779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_139
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 488
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f4e563e6733b230800000000000000
+      internalID: 3653324669225684752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_140
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 485
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c10cf7c5a7431c50800000000000000
+      internalID: 6634725453397230022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_141
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 490
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9755584767d0f2620800000000000000
+      internalID: 2751432699758859641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_142
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 487
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7117c960a83edcf10800000000000000
+      internalID: 2291737967357358359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_143
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 376
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a70e8e9a9453ea0800000000000000
+      internalID: -5893723543239099835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_144
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 488
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9018abf7dbe37ab60800000000000000
+      internalID: 7757237866781638921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_145
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 477
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd8a93e9cd1e0ee0800000000000000
+      internalID: -1293063290064564787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_146
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 479
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d413e4fe3828795e0800000000000000
+      internalID: -1902908814373539507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_147
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 484
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718da5addbbaa7610800000000000000
+      internalID: 1619795847893669911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_148
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 465
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc98c894e3648f0800000000000000
+      internalID: -556689018322301493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_149
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 465
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05b0be5af8052d30800000000000000
+      internalID: 4405937681875383565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_150
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 463
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667006fff21647630800000000000000
+      internalID: 3923868034122385254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_151
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 376
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef80feb70b7e8580800000000000000
+      internalID: -8822979346773798933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_152
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 466
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5def35f33ef9a11b0800000000000000
+      internalID: -5685055781232967979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_153
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 471
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7de985580cd9530800000000000000
+      internalID: 3863455734303741869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_154
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 471
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4300bd1f17451770800000000000000
+      internalID: 8580842863991980876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_155
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 474
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a600432057fa60800000000000000
+      internalID: 7707717399596146843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_156
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 475
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aecd059b58552330800000000000000
+      internalID: 3685449020438597281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_157
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 453
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418d0548e239f5a70800000000000000
+      internalID: 8817928423412389908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_158
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 437
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c00278e4e7afe60800000000000000
+      internalID: 7996842964089310361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_159
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 440
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c763753c15eee70800000000000000
+      internalID: 9146337792659717243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_160
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 376
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76eab4a3bc8d91f0800000000000000
+      internalID: -1036517636034599301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_161
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 377
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efccb944cf1834c90800000000000000
+      internalID: -7186757659870376706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_162
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 379
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5869410a72ce780800000000000000
+      internalID: -8652497215591905863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_163
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 455
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f95bbf874cb12c40800000000000000
+      internalID: 5485872836654094835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_164
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 447
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c7e2ba737c77a0800000000000000
+      internalID: -6378096001438727998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_165
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 377
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce0aebccad170ad0800000000000000
+      internalID: -2736185620611592511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_166
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 433
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b34e23d6a999ad0800000000000000
+      internalID: -2694953108208600226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_167
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 431
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb7ee9b69f65da80800000000000000
+      internalID: -8442719233280934934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_168
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 439
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a7b4c92366d7910800000000000000
+      internalID: 1836736590593620593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_169
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 441
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541cbd10c7eaa1d30800000000000000
+      internalID: 4403023433338437957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_170
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 443
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029c9f5005ccd44c0800000000000000
+      internalID: -4301557424999249632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_171
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 434
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038badc474b58f640800000000000000
+      internalID: 5113937738669406256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_172
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 436
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f400d6041cf39660800000000000000
+      internalID: 7391528576388957432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_173
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 428
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1a91e75abf4c150800000000000000
+      internalID: 5892110900711236001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_174
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 430
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8171457d2ed5290800000000000000
+      internalID: -7899908756881336158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_175
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 433
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c50ee325736839f0800000000000000
+      internalID: -488531204804573759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_176
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 298
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce35f5aa1621b290800000000000000
+      internalID: -7876472377398968625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_177
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 314
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857dc61a75c451e60800000000000000
+      internalID: 7932330257937127256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_178
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 308
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26736c4e50557c40800000000000000
+      internalID: 5509398085096404524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_179
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 253
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2b76f689662a400800000000000000
+      internalID: 333942127268967167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_180
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 297
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e595f75d591e10800000000000000
+      internalID: 2168867327919384605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_181
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 304
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e0b9a330665c00800000000000000
+      internalID: 889003751458791562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_182
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 320
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff225f1e80eb2d0800000000000000
+      internalID: -3261159313596284999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_183
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 254
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e88b11118b29d0800000000000000
+      internalID: -2798000833004247717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_184
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 300
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4253535e6b239d90800000000000000
+      internalID: -7092277235334032820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_185
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 275
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90ea4934b1466880800000000000000
+      internalID: -8618128594615738210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_186
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 325
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3defecbb9a08fdb60800000000000000
+      internalID: 7773072948353498835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_187
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 306
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee66b39aa2a430110800000000000000
+      internalID: 1225905070663231214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_188
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 304
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ad6de1c00793460800000000000000
+      internalID: 7221926674824616555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_189
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 278
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c817a0d3b7f0e2920800000000000000
+      internalID: 2967326226463224204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_190
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 326
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb134d8c02f58c30800000000000000
+      internalID: 4361157949901708216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_191
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 319
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b4caa6f1d85f7f0800000000000000
+      internalID: -579401810974061783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_192
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 322
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3664b2f78f74280800000000000000
+      internalID: -9058998900361894943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_193
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 325
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75be103c03b8c4440800000000000000
+      internalID: 4921461534355483479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_194
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 327
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a92fbdfa56a0d960800000000000000
+      internalID: 7624777078872680871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_195
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 306
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f059fcf096ccc060800000000000000
+      internalID: 6975168248911843577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_196
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 308
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ff96ddbb8176900800000000000000
+      internalID: 677537464095211323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_197
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 306
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860093522a824b680800000000000000
+      internalID: -8740316299944984472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_198
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 307
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6b0266c8839b6c0800000000000000
+      internalID: -4127205407848352061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_199
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 295
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74afbcda0dfa0d30800000000000000
+      internalID: 4398606209175757946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_200
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 306
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69725282e101d0bd0800000000000000
+      internalID: -2662454082997508202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_201
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 308
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6f392a5917adf20800000000000000
+      internalID: 3448193352197207753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_202
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 298
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18ecac958d5309c0800000000000000
+      internalID: -3962220418715293665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_203
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 307
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395d17039fdfbc30800000000000000
+      internalID: 4377463185399961914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_204
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 311
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a779c2b6607b030800000000000000
+      internalID: 3510281491937983016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_205
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 311
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e21c9d33c81ea0800000000000000
+      internalID: -5901752642290129674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_206
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 307
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b09d0f6d12cf60800000000000000
+      internalID: 8053031446498030520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_207
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 310
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54627287d4d48f80800000000000000
+      internalID: -8105119407288458147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_208
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 311
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81070bb107b47a030800000000000000
+      internalID: 3505853779804188696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_209
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 241
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cd0e041f338e620800000000000000
+      internalID: 2803547879306747035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_210
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 304
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29d8ca391b9cb840800000000000000
+      internalID: 5241234599015143724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_211
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 247
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9004769d8cc34f290800000000000000
+      internalID: -7857588616516124663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_212
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 254
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eca032ec87fb190800000000000000
+      internalID: -7944498390911758698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_213
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 288
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae943f402011f70800000000000000
+      internalID: 9156101737705761515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_214
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 250
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71dd6a6085147410800000000000000
+      internalID: 1473826619342573950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_215
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 284
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2906a501bfb37c0800000000000000
+      internalID: -4090399788881636661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_216
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 289
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67e6f10751356e10800000000000000
+      internalID: 2190211043550488429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_217
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 298
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3405d8c0a77ea0c0800000000000000
+      internalID: -4562577840031857603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_218
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 199
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3e749a31b8b17e0800000000000000
+      internalID: -1793687110016310335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_219
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 199
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152faad4e8ec33320800000000000000
+      internalID: 2536598125723447889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_220
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 200
+        width: 49
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d760e27c370e44b0800000000000000
+      internalID: -5454414142492350512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_221
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 199
+        width: 40
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe29edb1538eb390800000000000000
+      internalID: -7800653117457355018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_222
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 279
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b222390add0cde0800000000000000
+      internalID: -1314807409459188991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_223
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 260
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a145222940f5ad80800000000000000
+      internalID: -8239915746308308574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_224
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 262
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6add543ea07f10800000000000000
+      internalID: 2265502152503487001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_225
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 259
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a0135a3b73ffa00800000000000000
+      internalID: 792413304150624825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_226
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 270
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cdfb21ddefc2e10800000000000000
+      internalID: 2174392945568898085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_227
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 253
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ec4475018417e0800000000000000
+      internalID: -1795668490987969745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_228
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 199
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c59cf1a783558f00800000000000000
+      internalID: 1118391924474811841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_229
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 256
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b9e254166f4e240800000000000000
+      internalID: 4820248398826216343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_230
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 250
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1746da761985400800000000000000
+      internalID: 313160048578949603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_231
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 250
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c395e8ff9ef7150800000000000000
+      internalID: 5872669722928561192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_232
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 254
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b46b480658190800800000000000000
+      internalID: 579020784879232179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_233
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 260
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b219de3fe1bd91c20800000000000000
+      internalID: 3177811938074530091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_234
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 265
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6256b5183a06770800000000000000
+      internalID: 8602055064257111788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_235
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 257
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ede304d207fb6080800000000000000
+      internalID: -9192982622827713048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_236
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 259
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a541863f5b89c0800000000000000
+      internalID: -3923937962621556842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_237
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 265
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb8222c7991ccdc0800000000000000
+      internalID: -3617488261097550862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_238
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 251
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01412a9a7bc719a40800000000000000
+      internalID: 5373212958696543248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_239
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 259
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90481e3a8981ac8f0800000000000000
+      internalID: -519575763144309751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_240
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 259
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f0a1a98f1a5ea70800000000000000
+      internalID: 8855662331403308932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_241
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 259
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da617bedf37f0630800000000000000
+      internalID: 3895459737112767185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_242
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 269
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee391c2e90758120800000000000000
+      internalID: 2415460599801134819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_243
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 259
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebdba30f10952130800000000000000
+      internalID: 3541395144876743654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_244
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 251
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2470df92571cdc0800000000000000
+      internalID: -3620483802229947678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_245
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 250
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad4410f7f82c1c0800000000000000
+      internalID: -4484864503262684508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_246
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 251
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412bd0b275c202270800000000000000
+      internalID: 8223621672474620436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_247
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 250
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31e5971ea134b050800000000000000
+      internalID: 5815327642631921979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_248
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 254
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822b9efc0ad901d0800000000000000
+      internalID: -3383933895646174589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_249
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 241
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad85ccfaabe8370800000000000000
+      internalID: 8326798025265044163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_250
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 250
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56582b3ce2a966e0800000000000000
+      internalID: -1843763436943026595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_251
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 254
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aac98e7bdf98d5d0800000000000000
+      internalID: -3037502183591785820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_252
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 251
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e462e4f428d1af9d0800000000000000
+      internalID: -2739844977788049842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_253
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995fe100cf69adeb0800000000000000
+      internalID: -4694273652502366823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_254
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 199
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3f66cd6db338080800000000000000
+      internalID: -9186433020898905140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_255
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 197
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c104d8b866457940800000000000000
+      internalID: 5293214352635331009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_256
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 230
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ef1d3c4a93ca100800000000000000
+      internalID: 120534669854899739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_257
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 137
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a1c702c66415d90800000000000000
+      internalID: -7110824906425886182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_258
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab789acffedd8350800000000000000
+      internalID: 6020713467061238703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_259
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 142
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbf147a4ba3cda70800000000000000
+      internalID: 8853015515078196156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_260
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e0a5c8177b4d540800000000000000
+      internalID: 5031848381993586263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_261
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2ae834e6c781b60800000000000000
+      internalID: 7717054774521012958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_262
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 126
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e83de21d1fe0ff0800000000000000
+      internalID: -67851063627903421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_263
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 98
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f0f525363151c40800000000000000
+      internalID: 5482309438698098526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_264
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 107
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f6e5fffc009f10800000000000000
+      internalID: 2274332105303848276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_265
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 113
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6931dae8bb0ec60800000000000000
+      internalID: 7845476772342896361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_266
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 115
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd9ebf51e92f4c60800000000000000
+      internalID: 7804502727207067078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_267
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 118
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a965b0b56df08a20800000000000000
+      internalID: 3062726359810140577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_268
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 121
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad5485702deabd10800000000000000
+      internalID: 2142285296434437538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_269
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 83
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e5ce9fc5b3d310800000000000000
+      internalID: 1428685410133206447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_270
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 89
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaf85404355fd290800000000000000
+      internalID: -7863472742465996068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_271
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 54
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718233284e85592a0800000000000000
+      internalID: -6731376329575159785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_272
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 58
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8abeacd52711220800000000000000
+      internalID: 2454869019055597752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_273
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 60
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c395dba8d123e0800000000000000
+      internalID: -2080143320334220098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_274
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 20
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fa3d5a48e039d60800000000000000
+      internalID: 7895670534591196967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_275
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 23
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bea81d27353955d0800000000000000
+      internalID: -3073366759607587146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_276
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 25
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1f2ba373c8cff90800000000000000
+      internalID: -6918500758712028767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_277
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 28
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ab628f9d87765c0800000000000000
+      internalID: -4222273248070026606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic 2 HD - Fire Projectiles_278
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e64351d7cc71c7f0800000000000000
+      internalID: -594056478183962910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3452 @@
+fileFormatVersion: 2
+guid: 2050249d975a20c40820d5876a6e266f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1324868394721461768
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_0
+  - first:
+      213: -7564044448880472140
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_1
+  - first:
+      213: -5150447313050036185
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_2
+  - first:
+      213: 654129522310107746
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_3
+  - first:
+      213: 5452774400319898083
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_4
+  - first:
+      213: 7092834835358622748
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_5
+  - first:
+      213: -6716249963968978862
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_6
+  - first:
+      213: -74342944083489192
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_7
+  - first:
+      213: 1990077400983012924
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_8
+  - first:
+      213: -1434924632096098758
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_9
+  - first:
+      213: 8171619617366381606
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_10
+  - first:
+      213: 1813955723312840766
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_11
+  - first:
+      213: -5854202686022584953
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_12
+  - first:
+      213: 1521986756544608022
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_13
+  - first:
+      213: -3730104482780613582
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_14
+  - first:
+      213: 8638447157830218043
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_15
+  - first:
+      213: 3550179931302242818
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_16
+  - first:
+      213: -6018371522824128838
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_17
+  - first:
+      213: -79038068971144213
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_18
+  - first:
+      213: 2851647934477815970
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_19
+  - first:
+      213: -6348417455360716700
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_20
+  - first:
+      213: -969234504549130160
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_21
+  - first:
+      213: -952377078460767364
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_22
+  - first:
+      213: -1359959577736849688
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_23
+  - first:
+      213: 5641696153415556074
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_24
+  - first:
+      213: 6677184533982976633
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_25
+  - first:
+      213: 5003852660799952904
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_26
+  - first:
+      213: -6949930468437252064
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_27
+  - first:
+      213: 2462333664474535843
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_28
+  - first:
+      213: -1024584145132176445
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_29
+  - first:
+      213: 4464863581953956572
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_30
+  - first:
+      213: 1673427714140399582
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_31
+  - first:
+      213: 7453765710503720457
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_32
+  - first:
+      213: -8909854061975320828
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_33
+  - first:
+      213: -3627923433186206252
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_34
+  - first:
+      213: 565559679519487249
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_35
+  - first:
+      213: -7039656980636157804
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_36
+  - first:
+      213: 3905424481455613923
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_37
+  - first:
+      213: -8491282102694825869
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_38
+  - first:
+      213: -6204440430835593406
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_39
+  - first:
+      213: -6298187517777911836
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_40
+  - first:
+      213: -7458990949160859033
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_41
+  - first:
+      213: -4256754995249121480
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_42
+  - first:
+      213: -4654304672390008196
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_43
+  - first:
+      213: -9206297780576123082
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_44
+  - first:
+      213: -4010486093302296001
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_45
+  - first:
+      213: 3744065638511189223
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_46
+  - first:
+      213: -2274222246705307349
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_47
+  - first:
+      213: -717179439196055303
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_48
+  - first:
+      213: -6534397528403515490
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_49
+  - first:
+      213: -2855791749120173404
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_50
+  - first:
+      213: 3359862411278463200
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_51
+  - first:
+      213: -52938265224388302
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_52
+  - first:
+      213: 5242705005061863112
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_53
+  - first:
+      213: 7101605297921766279
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_54
+  - first:
+      213: -1746703485936196154
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_55
+  - first:
+      213: 5788619837521095887
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_56
+  - first:
+      213: 8708178782376334901
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_57
+  - first:
+      213: -1098923802808692459
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_58
+  - first:
+      213: -8174987210844259829
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_59
+  - first:
+      213: 7203114938148310089
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_60
+  - first:
+      213: -3257560868847172307
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_61
+  - first:
+      213: 6675158579559174460
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_62
+  - first:
+      213: 5039622702521245228
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_63
+  - first:
+      213: 431536331891820328
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_64
+  - first:
+      213: -322495339819052112
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_65
+  - first:
+      213: -8145467237696459669
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_66
+  - first:
+      213: 8711226279257678107
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_67
+  - first:
+      213: -8718664896487343138
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_68
+  - first:
+      213: 7992726266908672749
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_69
+  - first:
+      213: -333349512275399748
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_70
+  - first:
+      213: 7436251885018671267
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_71
+  - first:
+      213: -4536826244295851452
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_72
+  - first:
+      213: 1320981774642625883
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_73
+  - first:
+      213: -58104509342814936
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_74
+  - first:
+      213: -6572843832850128248
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_75
+  - first:
+      213: 2103053498468076265
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_76
+  - first:
+      213: 430982032293024980
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_77
+  - first:
+      213: 8877802975777927580
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_78
+  - first:
+      213: -8978736423326905066
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_79
+  - first:
+      213: 1925523757217039453
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_80
+  - first:
+      213: 1205328086556261406
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_81
+  - first:
+      213: -1559261722616820172
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_82
+  - first:
+      213: 1365090921267695268
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_83
+  - first:
+      213: 1417649363669420511
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_84
+  - first:
+      213: 3481663301573082953
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_85
+  - first:
+      213: -2477119756173523896
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_86
+  - first:
+      213: 1105394471710003546
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_87
+  - first:
+      213: -8771131618852571513
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_88
+  - first:
+      213: -7458213127918975059
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_89
+  - first:
+      213: 8213751792289192200
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_90
+  - first:
+      213: 3789951325351394125
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_91
+  - first:
+      213: -2110868524426947063
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_92
+  - first:
+      213: 8924723667288945782
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_93
+  - first:
+      213: -1626406520154810580
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_94
+  - first:
+      213: 4264163582469737701
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_95
+  - first:
+      213: 3453833162927782945
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_96
+  - first:
+      213: 4987494809168166906
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_97
+  - first:
+      213: -7793172004527116388
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_98
+  - first:
+      213: -8470722326320228635
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_99
+  - first:
+      213: -837178955567250466
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_100
+  - first:
+      213: -4117330486996668909
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_101
+  - first:
+      213: -195317076114976806
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_102
+  - first:
+      213: -4197612423474437494
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_103
+  - first:
+      213: 2378416314453543757
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_104
+  - first:
+      213: 2989296237862834547
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_105
+  - first:
+      213: -6490847853261152952
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_106
+  - first:
+      213: 2385705386417573569
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_107
+  - first:
+      213: -6023046224299499649
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_108
+  - first:
+      213: -7235772942638453610
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_109
+  - first:
+      213: 7944163919359811185
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_110
+  - first:
+      213: 5790261430791343062
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_111
+  - first:
+      213: -7173792214830088048
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_112
+  - first:
+      213: 8716126224209528430
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_113
+  - first:
+      213: 8241510872127598113
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_114
+  - first:
+      213: -201046539287876375
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_115
+  - first:
+      213: 7480281757756593746
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_116
+  - first:
+      213: 3826572290786934602
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_117
+  - first:
+      213: -8363568387862392023
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_118
+  - first:
+      213: 7613913653412602427
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_119
+  - first:
+      213: -5845492573873881445
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_120
+  - first:
+      213: -7381346484498617926
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_121
+  - first:
+      213: -6605947735462391140
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_122
+  - first:
+      213: 490097441100867129
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_123
+  - first:
+      213: -805680557608698243
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_124
+  - first:
+      213: 3523616864725119884
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_125
+  - first:
+      213: 8376639036096079172
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_126
+  - first:
+      213: -6605627171373930541
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_127
+  - first:
+      213: -8324158847801766443
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_128
+  - first:
+      213: -2962470522461297946
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_129
+  - first:
+      213: -1685676493816256710
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_130
+  - first:
+      213: 2402433589463623434
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_131
+  - first:
+      213: 4896382321119294408
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_132
+  - first:
+      213: -865335242560806023
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_133
+  - first:
+      213: 7151829331360447297
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_134
+  - first:
+      213: 6573431367263994586
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_135
+  - first:
+      213: 6384702897363421999
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_136
+  - first:
+      213: 7226705651334791641
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_137
+  - first:
+      213: 330965563934831238
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_138
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806c38919c0e26210800000000000000
+      internalID: 1324868394721461768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc63756ad170790800000000000000
+      internalID: -7564044448880472140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728994ff47fe588b0800000000000000
+      internalID: -5150447313050036185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262d366b55fe31900800000000000000
+      internalID: 654129522310107746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 636
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e149635d652cab40800000000000000
+      internalID: 5452774400319898083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14211c04bfce6260800000000000000
+      internalID: 7092834835358622748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25026e2fd361bc2a0800000000000000
+      internalID: -6716249963968978862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 636
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ec85a7c71e7fef0800000000000000
+      internalID: -74342944083489192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3600213adc2e9b10800000000000000
+      internalID: 1990077400983012924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36347056af161ce0800000000000000
+      internalID: -1434924632096098758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6249cb43fbc676170800000000000000
+      internalID: 8171619617366381606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30495e9e177c2910800000000000000
+      internalID: 1813955723312840766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7857c788ca1b1cea0800000000000000
+      internalID: -5854202686022584953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617b0b824ee2f1510800000000000000
+      internalID: 1521986756544608022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f4c06cb10c3cc0800000000000000
+      internalID: -3730104482780613582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f37debede1e770800000000000000
+      internalID: 8638447157830218043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aadfd76d5c44130800000000000000
+      internalID: 3550179931302242818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 636
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6bdb79cf27a7ca0800000000000000
+      internalID: -6018371522824128838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 573
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebfd378b4337eef0800000000000000
+      internalID: -79038068971144213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 573
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d60f00b6139720800000000000000
+      internalID: 2851647934477815970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 573
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d55fa5f3e5e7a0800000000000000
+      internalID: -6348417455360716700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 573
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0502c447a569c82f0800000000000000
+      internalID: -969234504549130160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 573
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732f12d71a78c2f0800000000000000
+      internalID: -952377078460767364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 506
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6da1c28f3702de0800000000000000
+      internalID: -1359959577736849688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 506
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb9503b2c45b4e40800000000000000
+      internalID: 5641696153415556074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 507
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a99c7d4ff1aac50800000000000000
+      internalID: 6677184533982976633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 526
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808df53cb71417540800000000000000
+      internalID: 5003852660799952904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 508
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028222faf03ec8f90800000000000000
+      internalID: -6949930468437252064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 507
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a79d7dfb67fb2220800000000000000
+      internalID: 2462333664474535843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 507
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb36e20622f7c1f0800000000000000
+      internalID: -1024584145132176445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 505
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda91fc95c166fd30800000000000000
+      internalID: 4464863581953956572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 504
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7e1aac3a5393710800000000000000
+      internalID: 1673427714140399582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 503
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906bf850c68117760800000000000000
+      internalID: 7453765710503720457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 501
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c363efe6d95480800000000000000
+      internalID: -8909854061975320828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 449
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddde9cebd607adc0800000000000000
+      internalID: -3627923433186206252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 447
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115fa05388549d700800000000000000
+      internalID: 565559679519487249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 446
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983598164d1e4e90800000000000000
+      internalID: -7039656980636157804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 445
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7a642cfdad23630800000000000000
+      internalID: 3905424481455613923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 447
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3703e359ae7e82a80800000000000000
+      internalID: -8491282102694825869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 369
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f09f9fc4665e9a0800000000000000
+      internalID: -6204440430835593406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 369
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef5c0262d75898a0800000000000000
+      internalID: -6298187517777911836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 369
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ac96c40475c7890800000000000000
+      internalID: -7458990949160859033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 369
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8377e4492e7fce4c0800000000000000
+      internalID: -4256754995249121480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 370
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72b0cd5f86986fb0800000000000000
+      internalID: -4654304672390008196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 370
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6370b4412f8ac3080800000000000000
+      internalID: -9206297780576123082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_45
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 370
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3292188524e758c0800000000000000
+      internalID: -4010486093302296001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 296
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec943f7cd795f330800000000000000
+      internalID: 3744065638511189223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 292
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21e6dc7ae65070e0800000000000000
+      internalID: -2274222246705307349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 297
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8518e89111c06f0800000000000000
+      internalID: -717179439196055303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 298
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97615291182155a0800000000000000
+      internalID: -6534397528403515490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 297
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa5339e8803e58d0800000000000000
+      internalID: -2855791749120173404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_51
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 297
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b07ecf01a0ae20800000000000000
+      internalID: 3359862411278463200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 298
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316642adece34ff0800000000000000
+      internalID: -52938265224388302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_53
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 303
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ffd0dc64d1c840800000000000000
+      internalID: 5242705005061863112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 237
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783b8ad7468fd8260800000000000000
+      internalID: 7101605297921766279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 225
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c526d81f6672c7e0800000000000000
+      internalID: -1746703485936196154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 226
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc6933a21f455050800000000000000
+      internalID: 5788619837521095887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_57
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 218
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5369224f67aa9d870800000000000000
+      internalID: 8708178782376334901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 218
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511dd5aaf96dfb0f0800000000000000
+      internalID: -1098923802808692459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_59
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 219
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3446d17c9c8e80800000000000000
+      internalID: -8174987210844259829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_60
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 219
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cc3ac5fda96f360800000000000000
+      internalID: 7203114938148310089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_61
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 255
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c62a26a1dac2d0800000000000000
+      internalID: -3257560868847172307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_62
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 219
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3196029c5de2ac50800000000000000
+      internalID: 6675158579559174460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_63
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 221
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed5c9952650f540800000000000000
+      internalID: 5039622702521245228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 137
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827461ae1002df500800000000000000
+      internalID: 431536331891820328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 140
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3dd547234468bf0800000000000000
+      internalID: -322495339819052112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 139
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c258f24bc75fe80800000000000000
+      internalID: -8145467237696459669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 139
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11a33d952e74e870800000000000000
+      internalID: 8711226279257678107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 140
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb34395874110780800000000000000
+      internalID: -8718664896487343138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_69
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 142
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28606413edbee60800000000000000
+      internalID: 7992726266908672749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 141
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb66ce7264bf5bf0800000000000000
+      internalID: -333349512275399748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_71
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 141
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8edd2c0bfd23760800000000000000
+      internalID: 7436251885018671267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_72
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 139
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44283156194f901c0800000000000000
+      internalID: -4536826244295851452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 67
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db658dce1155210800000000000000
+      internalID: 1320981774642625883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_74
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 67
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82de5c0b142913ff0800000000000000
+      internalID: -58104509342814936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_75
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e9d2cb5198c4a0800000000000000
+      internalID: -6572843832850128248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_76
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 70
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea05dfa30c8f2d10800000000000000
+      internalID: 2103053498468076265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 73
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4d66bffd72bf500800000000000000
+      internalID: 430982032293024980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_78
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 17
+        width: 106
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91362515ca443b70800000000000000
+      internalID: 8877802975777927580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 174
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d0dbb5bce156380800000000000000
+      internalID: -8978736423326905066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_80
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 46
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d544f73c7a5d8ba10800000000000000
+      internalID: 1925523757217039453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cbcf4328f2ab010800000000000000
+      internalID: 1205328086556261406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_82
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 46
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e8f8f79b36c5ae0800000000000000
+      internalID: -1559261722616820172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_83
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 46
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8548d5f6c1f210800000000000000
+      internalID: 1365090921267695268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_84
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd90391d5908ca310800000000000000
+      internalID: 1417649363669420511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_85
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff6cd735a515030800000000000000
+      internalID: 3481663301573082953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844cc23c4b08f9dd0800000000000000
+      internalID: -2477119756173523896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_87
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 46
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5194f65a66275f00800000000000000
+      internalID: 1105394471710003546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 45
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786781c934ea64680800000000000000
+      internalID: -8771131618852571513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_89
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da70c3becaa1f7890800000000000000
+      internalID: -7458213127918975059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_90
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80910ac9cbb1df170800000000000000
+      internalID: 8213751792289192200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_91
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b379f76ac989430800000000000000
+      internalID: 3789951325351394125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_92
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 46
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9069af9c240b4b2e0800000000000000
+      internalID: -2110868524426947063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_93
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6747743e3ecfadb70800000000000000
+      internalID: 8924723667288945782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_94
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c271bc113e7dd69e0800000000000000
+      internalID: -1626406520154810580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_95
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 45
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec044d8f2a5d2b30800000000000000
+      internalID: 4264163582469737701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_96
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 46
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c36c566fa7eef20800000000000000
+      internalID: 3453833162927782945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 46
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affb293aa14273540800000000000000
+      internalID: 4987494809168166906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_98
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 46
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f64a41a5719d390800000000000000
+      internalID: -7793172004527116388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_99
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e656bc8ce2f17a80800000000000000
+      internalID: -8470722326320228635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_100
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 46
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34bfbec2eb164f0800000000000000
+      internalID: -837178955567250466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_101
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e6da39cbd4cd6c0800000000000000
+      internalID: -4117330486996668909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_102
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf499377281a4df0800000000000000
+      internalID: -195317076114976806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a822a02adb51fb5c0800000000000000
+      internalID: -4197612423474437494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_104
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b4ffe5905d10120800000000000000
+      internalID: 2378416314453543757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_105
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371d932271d1c7920800000000000000
+      internalID: 2989296237862834547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_106
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 34
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d13477440ebe5a0800000000000000
+      internalID: -6490847853261152952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_107
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 34
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cec720b86abb1120800000000000000
+      internalID: 2385705386417573569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_108
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fded6de57d96ca0800000000000000
+      internalID: -6023046224299499649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_109
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce6ae68de559b90800000000000000
+      internalID: -7235772942638453610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_110
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 34
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e9ae2aef65f3e60800000000000000
+      internalID: 7944163919359811185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_111
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db86fad7142b5050800000000000000
+      internalID: 5790261430791343062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_112
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 34
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090079e2df1917c90800000000000000
+      internalID: -7173792214830088048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_113
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 34
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c973fe96e5f870800000000000000
+      internalID: 8716126224209528430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_114
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 34
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e6fa9097abf5270800000000000000
+      internalID: 8241510872127598113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_115
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecac6adc3db53df0800000000000000
+      internalID: -201046539287876375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_116
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2569aee50ac4fc760800000000000000
+      internalID: 7480281757756593746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_117
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f35b37937ba1530800000000000000
+      internalID: 3826572290786934602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_118
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 34
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92396c20dd2aeeb80800000000000000
+      internalID: -8363568387862392023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_119
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32a726a02e0aa960800000000000000
+      internalID: 7613913653412602427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_120
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 34
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e301d8973a0eea0800000000000000
+      internalID: -5845492573873881445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9a16bfa70309990800000000000000
+      internalID: -7381346484498617926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_122
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 22
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d7fec885f254a0800000000000000
+      internalID: -6605947735462391140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_123
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936252aa60d2dc600800000000000000
+      internalID: 490097441100867129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e7b413dc5a1d4f0800000000000000
+      internalID: -805680557608698243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_125
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83348a9ed666e030800000000000000
+      internalID: 3523616864725119884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_126
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4456d2e62dccf3470800000000000000
+      internalID: 8376639036096079172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_127
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7a693f5191454a0800000000000000
+      internalID: -6605627171373930541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_128
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddc9d691a5aa7c80800000000000000
+      internalID: -8324158847801766443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_129
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e02371c033e6d0800000000000000
+      internalID: -2962470522461297946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_130
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 10
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a372bd3f8264b98e0800000000000000
+      internalID: -1685676493816256710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_131
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a072278fe98275120800000000000000
+      internalID: 2402433589463623434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_132
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c371d667c173f340800000000000000
+      internalID: 4896382321119294408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_133
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 10
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973698f7e26bdf3f0800000000000000
+      internalID: -865335242560806023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_134
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b75f582e6604360800000000000000
+      internalID: 7151829331360447297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_135
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad24e214005893b50800000000000000
+      internalID: 6573431367263994586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_136
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b01c125750b9850800000000000000
+      internalID: 6384702897363421999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_137
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 10
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14e1c408a6a4460800000000000000
+      internalID: 7226705651334791641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Vlad Plasmuis_138
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682f8374d63d79400800000000000000
+      internalID: 330965563934831238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2732 @@
+fileFormatVersion: 2
+guid: 49a6a3c532e196847a00240d6bb42a99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8890957862616931781
+    second: GameCube - Kirby Air Ride - Power Up Patches_0
+  - first:
+      213: -9115876931492192506
+    second: GameCube - Kirby Air Ride - Power Up Patches_1
+  - first:
+      213: 6947698067817084221
+    second: GameCube - Kirby Air Ride - Power Up Patches_2
+  - first:
+      213: -8899548453177009750
+    second: GameCube - Kirby Air Ride - Power Up Patches_3
+  - first:
+      213: -4728486241595428290
+    second: GameCube - Kirby Air Ride - Power Up Patches_4
+  - first:
+      213: 6284644743090569621
+    second: GameCube - Kirby Air Ride - Power Up Patches_5
+  - first:
+      213: -1364910200687918174
+    second: GameCube - Kirby Air Ride - Power Up Patches_6
+  - first:
+      213: 3908892973985912241
+    second: GameCube - Kirby Air Ride - Power Up Patches_7
+  - first:
+      213: 7079651465564538854
+    second: GameCube - Kirby Air Ride - Power Up Patches_8
+  - first:
+      213: 5081571846016196183
+    second: GameCube - Kirby Air Ride - Power Up Patches_9
+  - first:
+      213: 3166662297694203977
+    second: GameCube - Kirby Air Ride - Power Up Patches_10
+  - first:
+      213: 2935168191781911555
+    second: GameCube - Kirby Air Ride - Power Up Patches_11
+  - first:
+      213: 3601163363212938225
+    second: GameCube - Kirby Air Ride - Power Up Patches_12
+  - first:
+      213: 27074350763182323
+    second: GameCube - Kirby Air Ride - Power Up Patches_13
+  - first:
+      213: -8700788162595599014
+    second: GameCube - Kirby Air Ride - Power Up Patches_14
+  - first:
+      213: 7393227479711106013
+    second: GameCube - Kirby Air Ride - Power Up Patches_15
+  - first:
+      213: 5653074390789816722
+    second: GameCube - Kirby Air Ride - Power Up Patches_16
+  - first:
+      213: 3324767002756122575
+    second: GameCube - Kirby Air Ride - Power Up Patches_17
+  - first:
+      213: 2965296445769870635
+    second: GameCube - Kirby Air Ride - Power Up Patches_18
+  - first:
+      213: 6581370756727022028
+    second: GameCube - Kirby Air Ride - Power Up Patches_19
+  - first:
+      213: -911231576736833135
+    second: GameCube - Kirby Air Ride - Power Up Patches_20
+  - first:
+      213: -6280337653258408759
+    second: GameCube - Kirby Air Ride - Power Up Patches_21
+  - first:
+      213: 1689566396182551799
+    second: GameCube - Kirby Air Ride - Power Up Patches_22
+  - first:
+      213: -6871866780225615804
+    second: GameCube - Kirby Air Ride - Power Up Patches_23
+  - first:
+      213: -7673212248501893283
+    second: GameCube - Kirby Air Ride - Power Up Patches_24
+  - first:
+      213: -1206877866984761772
+    second: GameCube - Kirby Air Ride - Power Up Patches_25
+  - first:
+      213: -6534337120735816537
+    second: GameCube - Kirby Air Ride - Power Up Patches_26
+  - first:
+      213: -9181445898113776855
+    second: GameCube - Kirby Air Ride - Power Up Patches_27
+  - first:
+      213: 6447452442633410937
+    second: GameCube - Kirby Air Ride - Power Up Patches_28
+  - first:
+      213: 7961483264829401573
+    second: GameCube - Kirby Air Ride - Power Up Patches_29
+  - first:
+      213: 8399947440419215349
+    second: GameCube - Kirby Air Ride - Power Up Patches_30
+  - first:
+      213: 1356290328772171972
+    second: GameCube - Kirby Air Ride - Power Up Patches_31
+  - first:
+      213: 7744909564515450513
+    second: GameCube - Kirby Air Ride - Power Up Patches_32
+  - first:
+      213: -4201354281041010388
+    second: GameCube - Kirby Air Ride - Power Up Patches_33
+  - first:
+      213: 8655758378342707284
+    second: GameCube - Kirby Air Ride - Power Up Patches_34
+  - first:
+      213: 2683780180806171092
+    second: GameCube - Kirby Air Ride - Power Up Patches_35
+  - first:
+      213: 2499448646316838975
+    second: GameCube - Kirby Air Ride - Power Up Patches_36
+  - first:
+      213: -4687890917571615705
+    second: GameCube - Kirby Air Ride - Power Up Patches_37
+  - first:
+      213: -1534063454649948014
+    second: GameCube - Kirby Air Ride - Power Up Patches_38
+  - first:
+      213: -408358342127935859
+    second: GameCube - Kirby Air Ride - Power Up Patches_39
+  - first:
+      213: -7881372492729765848
+    second: GameCube - Kirby Air Ride - Power Up Patches_40
+  - first:
+      213: -8157724430847472231
+    second: GameCube - Kirby Air Ride - Power Up Patches_41
+  - first:
+      213: -9077962297312139851
+    second: GameCube - Kirby Air Ride - Power Up Patches_42
+  - first:
+      213: 469257621589421929
+    second: GameCube - Kirby Air Ride - Power Up Patches_43
+  - first:
+      213: 4348919935766863084
+    second: GameCube - Kirby Air Ride - Power Up Patches_44
+  - first:
+      213: -3951588688163700461
+    second: GameCube - Kirby Air Ride - Power Up Patches_45
+  - first:
+      213: 6170041626255999162
+    second: GameCube - Kirby Air Ride - Power Up Patches_46
+  - first:
+      213: -7254142716383793564
+    second: GameCube - Kirby Air Ride - Power Up Patches_47
+  - first:
+      213: -6111811645041046354
+    second: GameCube - Kirby Air Ride - Power Up Patches_48
+  - first:
+      213: 2540703707621439760
+    second: GameCube - Kirby Air Ride - Power Up Patches_49
+  - first:
+      213: -7402429662263822047
+    second: GameCube - Kirby Air Ride - Power Up Patches_50
+  - first:
+      213: 8255416798245195762
+    second: GameCube - Kirby Air Ride - Power Up Patches_51
+  - first:
+      213: -7289104484810736925
+    second: GameCube - Kirby Air Ride - Power Up Patches_52
+  - first:
+      213: -8573515941129337364
+    second: GameCube - Kirby Air Ride - Power Up Patches_53
+  - first:
+      213: 1115032929715345180
+    second: GameCube - Kirby Air Ride - Power Up Patches_54
+  - first:
+      213: 5438011829856741242
+    second: GameCube - Kirby Air Ride - Power Up Patches_55
+  - first:
+      213: -8124914198963903694
+    second: GameCube - Kirby Air Ride - Power Up Patches_56
+  - first:
+      213: 6028794237831971662
+    second: GameCube - Kirby Air Ride - Power Up Patches_57
+  - first:
+      213: 3293253313001250491
+    second: GameCube - Kirby Air Ride - Power Up Patches_58
+  - first:
+      213: -6205634041634075394
+    second: GameCube - Kirby Air Ride - Power Up Patches_59
+  - first:
+      213: 9220984019619936936
+    second: GameCube - Kirby Air Ride - Power Up Patches_60
+  - first:
+      213: -1283680797995736921
+    second: GameCube - Kirby Air Ride - Power Up Patches_61
+  - first:
+      213: 8005962527925759932
+    second: GameCube - Kirby Air Ride - Power Up Patches_62
+  - first:
+      213: 5127058742668163646
+    second: GameCube - Kirby Air Ride - Power Up Patches_63
+  - first:
+      213: -2451703314724287543
+    second: GameCube - Kirby Air Ride - Power Up Patches_64
+  - first:
+      213: 5883750508556911004
+    second: GameCube - Kirby Air Ride - Power Up Patches_65
+  - first:
+      213: -4660157083372442033
+    second: GameCube - Kirby Air Ride - Power Up Patches_66
+  - first:
+      213: 1535260543214832579
+    second: GameCube - Kirby Air Ride - Power Up Patches_67
+  - first:
+      213: 7705859275056763931
+    second: GameCube - Kirby Air Ride - Power Up Patches_68
+  - first:
+      213: 6840900012863648807
+    second: GameCube - Kirby Air Ride - Power Up Patches_69
+  - first:
+      213: 6919675169563567795
+    second: GameCube - Kirby Air Ride - Power Up Patches_70
+  - first:
+      213: 2824245336631880498
+    second: GameCube - Kirby Air Ride - Power Up Patches_71
+  - first:
+      213: -5354314101514610536
+    second: GameCube - Kirby Air Ride - Power Up Patches_72
+  - first:
+      213: -7277854626260246573
+    second: GameCube - Kirby Air Ride - Power Up Patches_73
+  - first:
+      213: -668037996066441443
+    second: GameCube - Kirby Air Ride - Power Up Patches_74
+  - first:
+      213: -4050792067726912533
+    second: GameCube - Kirby Air Ride - Power Up Patches_75
+  - first:
+      213: 1849098108283973334
+    second: GameCube - Kirby Air Ride - Power Up Patches_76
+  - first:
+      213: -242041711190152370
+    second: GameCube - Kirby Air Ride - Power Up Patches_77
+  - first:
+      213: 4161549454328630149
+    second: GameCube - Kirby Air Ride - Power Up Patches_78
+  - first:
+      213: -8896792299315042576
+    second: GameCube - Kirby Air Ride - Power Up Patches_79
+  - first:
+      213: 7782170641449256707
+    second: GameCube - Kirby Air Ride - Power Up Patches_80
+  - first:
+      213: 1877367704965721129
+    second: GameCube - Kirby Air Ride - Power Up Patches_81
+  - first:
+      213: -2026199494383973859
+    second: GameCube - Kirby Air Ride - Power Up Patches_82
+  - first:
+      213: 7811343222705307510
+    second: GameCube - Kirby Air Ride - Power Up Patches_83
+  - first:
+      213: 3858118145869777899
+    second: GameCube - Kirby Air Ride - Power Up Patches_84
+  - first:
+      213: -7232751189654888134
+    second: GameCube - Kirby Air Ride - Power Up Patches_85
+  - first:
+      213: -540233054037431015
+    second: GameCube - Kirby Air Ride - Power Up Patches_86
+  - first:
+      213: 1173490308567566568
+    second: GameCube - Kirby Air Ride - Power Up Patches_87
+  - first:
+      213: 2617830601937948354
+    second: GameCube - Kirby Air Ride - Power Up Patches_88
+  - first:
+      213: 6142263106099624142
+    second: GameCube - Kirby Air Ride - Power Up Patches_89
+  - first:
+      213: -4995295763580079209
+    second: GameCube - Kirby Air Ride - Power Up Patches_90
+  - first:
+      213: -786541516689976777
+    second: GameCube - Kirby Air Ride - Power Up Patches_91
+  - first:
+      213: 6207244763481139056
+    second: GameCube - Kirby Air Ride - Power Up Patches_92
+  - first:
+      213: -1889211861118808106
+    second: GameCube - Kirby Air Ride - Power Up Patches_93
+  - first:
+      213: -3897655878326407278
+    second: GameCube - Kirby Air Ride - Power Up Patches_94
+  - first:
+      213: 170313316353651233
+    second: GameCube - Kirby Air Ride - Power Up Patches_95
+  - first:
+      213: -3668053613317296817
+    second: GameCube - Kirby Air Ride - Power Up Patches_96
+  - first:
+      213: -5450483339624899845
+    second: GameCube - Kirby Air Ride - Power Up Patches_97
+  - first:
+      213: 5682639727701477162
+    second: GameCube - Kirby Air Ride - Power Up Patches_98
+  - first:
+      213: -599064932284495563
+    second: GameCube - Kirby Air Ride - Power Up Patches_99
+  - first:
+      213: -8023778370330180939
+    second: GameCube - Kirby Air Ride - Power Up Patches_100
+  - first:
+      213: -6104587452201876745
+    second: GameCube - Kirby Air Ride - Power Up Patches_101
+  - first:
+      213: -5037286211824306797
+    second: GameCube - Kirby Air Ride - Power Up Patches_102
+  - first:
+      213: -859051165776155231
+    second: GameCube - Kirby Air Ride - Power Up Patches_103
+  - first:
+      213: -7166969047400593324
+    second: GameCube - Kirby Air Ride - Power Up Patches_104
+  - first:
+      213: -7552539081085619882
+    second: GameCube - Kirby Air Ride - Power Up Patches_105
+  - first:
+      213: 7208401049630603170
+    second: GameCube - Kirby Air Ride - Power Up Patches_106
+  - first:
+      213: -1494238803888629758
+    second: GameCube - Kirby Air Ride - Power Up Patches_107
+  - first:
+      213: -6486220894908039367
+    second: GameCube - Kirby Air Ride - Power Up Patches_108
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 730
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3260c52ee8fc9480800000000000000
+      internalID: -8890957862616931781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 729
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fda329a36ed7180800000000000000
+      internalID: -9115876931492192506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 731
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b7ea059e2b6060800000000000000
+      internalID: 6947698067817084221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 728
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9d10b65d37e7480800000000000000
+      internalID: -8899548453177009750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 730
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32f16cd0da016eb0800000000000000
+      internalID: -4728486241595428290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 721
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591807ba81b873750800000000000000
+      internalID: 6284644743090569621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 729
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a380b1776dde0de0800000000000000
+      internalID: -1364910200687918174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 729
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5537b137d2f3630800000000000000
+      internalID: 3908892973985912241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 730
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e74c829f79ff3260800000000000000
+      internalID: 7079651465564538854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 728
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75edb6eabae558640800000000000000
+      internalID: 5081571846016196183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 722
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9407fa1059e32fb20800000000000000
+      internalID: 3166662297694203977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 731
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cbf235befcbb820800000000000000
+      internalID: 2935168191781911555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 729
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb4572cff6e9f130800000000000000
+      internalID: 3601163363212938225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 732
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f883c38aff206000800000000000000
+      internalID: 27074350763182323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 730
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc09ec347904780800000000000000
+      internalID: -8700788162595599014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 731
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd346d7c8350a9660800000000000000
+      internalID: 7393227479711106013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 724
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29182e70531c37e40800000000000000
+      internalID: 5653074390789816722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 729
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7083049f1f32e20800000000000000
+      internalID: 3324767002756122575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 729
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d67d71869d62920800000000000000
+      internalID: 2965296445769870635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 731
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1abd965d9b55b50800000000000000
+      internalID: 6581370756727022028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 731
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916b7875b7aa53f0800000000000000
+      internalID: -911231576736833135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 730
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca504dd22c7d8a0800000000000000
+      internalID: -6280337653258408759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 724
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd5e48fab827710800000000000000
+      internalID: 1689566396182551799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 732
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44848d4729932a0a0800000000000000
+      internalID: -6871866780225615804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_24
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 732
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d574ed94d16438590800000000000000
+      internalID: -7673212248501893283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_25
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 723
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456971b69fe404fe0800000000000000
+      internalID: -1206877866984761772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_26
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 733
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a494e3520f5155a0800000000000000
+      internalID: -6534337120735816537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 733
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923067ed993f49080800000000000000
+      internalID: -9181445898113776855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_28
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 731
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979936526d3f97950800000000000000
+      internalID: 6447452442633410937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_29
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 733
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9af5df8dedc7e60800000000000000
+      internalID: 7961483264829401573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_30
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 730
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7932631bb929470800000000000000
+      internalID: 8399947440419215349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_31
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 734
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c853ca3ed282d210800000000000000
+      internalID: 1356290328772171972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_32
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 721
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ef772f6327b7b60800000000000000
+      internalID: 7744909564515450513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_33
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 733
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ebf68a8ac1b5c0800000000000000
+      internalID: -4201354281041010388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_34
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 732
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4507aba826e6f1870800000000000000
+      internalID: 8655758378342707284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_35
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 728
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97f2cead3be3520800000000000000
+      internalID: 2683780180806171092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_36
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 732
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30db0a1d43dfa220800000000000000
+      internalID: 2499448646316838975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 728
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7242d584c0441feb0800000000000000
+      internalID: -4687890917571615705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_38
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 731
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986ea27a69e5bae0800000000000000
+      internalID: -1534063454649948014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_39
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 731
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e956c5048355af0800000000000000
+      internalID: -408358342127935859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_40
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 731
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820be44a97dbf9290800000000000000
+      internalID: -7881372492729765848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_41
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 720
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d8fc30ad0f9ce80800000000000000
+      internalID: -8157724430847472231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_42
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 730
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b522504369940280800000000000000
+      internalID: -9077962297312139851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_43
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 729
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f6bf21253238600800000000000000
+      internalID: 469257621589421929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_44
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 731
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec9ff7d3a77a5c30800000000000000
+      internalID: 4348919935766863084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_45
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 730
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3110d8746032929c0800000000000000
+      internalID: -3951588688163700461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_46
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 722
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0cc563b2460a550800000000000000
+      internalID: 6170041626255999162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_47
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 729
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee4ff22ab145b90800000000000000
+      internalID: -7254142716383793564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_48
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 727
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac8b3bc0bb7e2ba0800000000000000
+      internalID: -6111811645041046354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_49
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 729
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0193b449f84624320800000000000000
+      internalID: 2540703707621439760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_50
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 726
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12933f12179454990800000000000000
+      internalID: -7402429662263822047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_51
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 729
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff8234c6d1219270800000000000000
+      internalID: 8255416798245195762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_52
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 727
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea36242716e7da90800000000000000
+      internalID: -7289104484810736925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_53
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 723
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce546dc0da0c40980800000000000000
+      internalID: -8573515941129337364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_54
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 594
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17db88ba84697f00800000000000000
+      internalID: 1115032929715345180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 597
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77abfa82f2b77b40800000000000000
+      internalID: 5438011829856741242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_56
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 598
+        width: 136
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233aa3c65918e3f80800000000000000
+      internalID: -8124914198963903694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 608
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4385e9da649aa350800000000000000
+      internalID: 6028794237831971662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_58
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 599
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe51d4907cf3bd20800000000000000
+      internalID: 3293253313001250491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_59
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 611
+        width: 138
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc445ec7b821e9a0800000000000000
+      internalID: -6205634041634075394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_60
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 597
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aafff86c1487ff70800000000000000
+      internalID: 9220984019619936936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_61
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 601
+        width: 127
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0697e8d137f2ee0800000000000000
+      internalID: -1283680797995736921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_62
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 612
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf6a127084ea1f60800000000000000
+      internalID: 8005962527925759932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 466
+        width: 103
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3afb4b13c8f62740800000000000000
+      internalID: 5127058742668163646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 469
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb063f23dcc9fdd0800000000000000
+      internalID: -2451703314724287543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 470
+        width: 136
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c910f810ae747a150800000000000000
+      internalID: 5883750508556911004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_66
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 480
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea010c2dbc35fb0800000000000000
+      internalID: -4660157083372442033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_67
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 501
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb4ef374575e4510800000000000000
+      internalID: 1535260543214832579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_68
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 473
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1458eaee26b0fa60800000000000000
+      internalID: 7705859275056763931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_69
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 475
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724f3ba2152cfee50800000000000000
+      internalID: 6840900012863648807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_70
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 485
+        width: 114
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b66dea97ef970060800000000000000
+      internalID: 6919675169563567795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_71
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 338
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b2f709b2cb13720800000000000000
+      internalID: 2824245336631880498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_72
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 341
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8985b5b61b7a1b5b0800000000000000
+      internalID: -5354314101514610536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_73
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 342
+        width: 136
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df13d2f6cddffa90800000000000000
+      internalID: -7277854626260246573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_74
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 352
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17fef36bf6aab6f0800000000000000
+      internalID: -668037996066441443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_75
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 355
+        width: 138
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3da209312b8c7c0800000000000000
+      internalID: -4050792067726912533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_76
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 341
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deec1bbee059a910800000000000000
+      internalID: 1849098108283973334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_77
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 345
+        width: 127
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4beea7985814acf0800000000000000
+      internalID: -242041711190152370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_78
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 357
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b8a7c0e2bc0c930800000000000000
+      internalID: 4161549454328630149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 300
+        width: 108
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f665ee7a8e388480800000000000000
+      internalID: -8896792299315042576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_80
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 299
+        width: 128
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078e0977f2dffb60800000000000000
+      internalID: 7782170641449256707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_81
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 300
+        width: 140
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ca54f1bffbd0a10800000000000000
+      internalID: 1877367704965721129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_82
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 300
+        width: 98
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aca2d8b4e71e3e0800000000000000
+      internalID: -2026199494383973859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_83
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 305
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f31085647776c60800000000000000
+      internalID: 7811343222705307510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_84
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 300
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb8e02330aca8530800000000000000
+      internalID: 3858118145869777899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_85
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 299
+        width: 141
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3126df1d1b10ab90800000000000000
+      internalID: -7232751189654888134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_86
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 298
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dac2e46e4b088f0800000000000000
+      internalID: -540233054037431015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_87
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 300
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8888dd733194010800000000000000
+      internalID: 1173490308567566568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_88
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 300
+        width: 91
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce88a60017645420800000000000000
+      internalID: 2617830601937948354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_89
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 300
+        width: 126
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec83e0c70c3bd3550800000000000000
+      internalID: 6142263106099624142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_90
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 259
+        width: 108
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793bbcf18f42daab0800000000000000
+      internalID: -4995295763580079209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 259
+        width: 128
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732d89868a4a515f0800000000000000
+      internalID: -786541516689976777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_92
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 259
+        width: 140
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07762399930942650800000000000000
+      internalID: 6207244763481139056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_93
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 259
+        width: 98
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df0f8062db28c5e0800000000000000
+      internalID: -1889211861118808106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_94
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 265
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f24ab11aeb8e9c0800000000000000
+      internalID: -3897655878326407278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_95
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 259
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12237c11f031d5200800000000000000
+      internalID: 170313316353651233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_96
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 259
+        width: 141
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d62214ca4781dc0800000000000000
+      internalID: -3668053613317296817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_97
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 259
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa197fc74efb54b0800000000000000
+      internalID: -5450483339624899845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_98
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 259
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a274b2479baccde40800000000000000
+      internalID: 5682639727701477162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_99
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 259
+        width: 91
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5390ac93e91bfa7f0800000000000000
+      internalID: -599064932284495563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_100
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 259
+        width: 126
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2c1008510d5a090800000000000000
+      internalID: -8023778370330180939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_101
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 94
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f243334e06284ba0800000000000000
+      internalID: -6104587452201876745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_102
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 54
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3953d3801e6f71ab0800000000000000
+      internalID: -5037286211824306797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_103
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 50
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ade60424890414f0800000000000000
+      internalID: -859051165776155231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458c775af9fc98c90800000000000000
+      internalID: -7166969047400593324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_105
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f2a788bdff2790800000000000000
+      internalID: -7552539081085619882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_106
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 72
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f8c91092690460800000000000000
+      internalID: 7208401049630603170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_107
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 14
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2081d9489b5634be0800000000000000
+      internalID: -1494238803888629758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Kirby Air Ride - Power Up Patches_108
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 10
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f3a4826705cf5a0800000000000000
+      internalID: -6486220894908039367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2898 @@
+fileFormatVersion: 2
+guid: d7aff63d3e034174e8efe5d23d8878b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6221049567892702583
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_0
+  - first:
+      213: -4606630994624156604
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_1
+  - first:
+      213: 1873816246441358945
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_2
+  - first:
+      213: 7833539200523677431
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_3
+  - first:
+      213: -6646211571202481281
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_4
+  - first:
+      213: -866030458619296700
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_5
+  - first:
+      213: -4562214698507971838
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_6
+  - first:
+      213: -8504065786574227543
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_7
+  - first:
+      213: 8527570275739411020
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_8
+  - first:
+      213: -7465934691367372271
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_9
+  - first:
+      213: 1250791708297635504
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_10
+  - first:
+      213: -7517625008894694854
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_11
+  - first:
+      213: -2401052785334414382
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_12
+  - first:
+      213: 4326193044540794996
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_13
+  - first:
+      213: -2488820324519800056
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_14
+  - first:
+      213: 8930599271409675089
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_15
+  - first:
+      213: -4196757617327544630
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_16
+  - first:
+      213: -675178835929551230
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_17
+  - first:
+      213: 4147867815520052863
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_18
+  - first:
+      213: -7117385793461931824
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_19
+  - first:
+      213: -7551225710843104183
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_20
+  - first:
+      213: -2066065409990135348
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_21
+  - first:
+      213: -2303172920181839011
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_22
+  - first:
+      213: 2346265426206609950
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_23
+  - first:
+      213: -7269409757677031969
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_24
+  - first:
+      213: -5097818976545133808
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_25
+  - first:
+      213: -5233278501948787408
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_26
+  - first:
+      213: -752388480183946624
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_27
+  - first:
+      213: 4282494572460225885
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_28
+  - first:
+      213: 5065984090795998963
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_29
+  - first:
+      213: -6518491401948941480
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_30
+  - first:
+      213: 5381030232775376264
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_31
+  - first:
+      213: -7294360895325667047
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_32
+  - first:
+      213: -6418160952801683167
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_33
+  - first:
+      213: 1199308596717536230
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_34
+  - first:
+      213: -589900171882642864
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_35
+  - first:
+      213: -5217791108050017726
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_36
+  - first:
+      213: 7802459983097987303
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_37
+  - first:
+      213: -5872933934940904163
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_38
+  - first:
+      213: -3283835419611436003
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_39
+  - first:
+      213: 1932823840652315422
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_40
+  - first:
+      213: 682423770289946088
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_41
+  - first:
+      213: -8983645126369287075
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_42
+  - first:
+      213: -2610763519387400508
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_43
+  - first:
+      213: 563110052330024080
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_44
+  - first:
+      213: -6605150025875073247
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_45
+  - first:
+      213: -7049500016036475694
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_46
+  - first:
+      213: 5223882920952180366
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_47
+  - first:
+      213: -6304834136215325999
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_48
+  - first:
+      213: -6485546140809031661
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_49
+  - first:
+      213: 3628909040583922013
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_50
+  - first:
+      213: 2500448779897719515
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_51
+  - first:
+      213: -97379772489158095
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_52
+  - first:
+      213: -1767677784665770514
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_53
+  - first:
+      213: -5720492074138113117
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_54
+  - first:
+      213: 358510087409520974
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_55
+  - first:
+      213: 4135094654466662088
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_56
+  - first:
+      213: -6351490959676682666
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_57
+  - first:
+      213: 9071168287453607764
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_58
+  - first:
+      213: 6410414755233664256
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_59
+  - first:
+      213: 1768996982521745799
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_60
+  - first:
+      213: -1771208775524311521
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_61
+  - first:
+      213: 7120591433377502694
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_62
+  - first:
+      213: 3715164512676640708
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_63
+  - first:
+      213: -4870703170331922814
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_64
+  - first:
+      213: -7812325141547642298
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_65
+  - first:
+      213: 5500676115452368050
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_66
+  - first:
+      213: 8134995824047407824
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_67
+  - first:
+      213: -8607528200818826970
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_68
+  - first:
+      213: 2209597249376638344
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_69
+  - first:
+      213: 655323340113139948
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_70
+  - first:
+      213: 2580176936270694334
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_71
+  - first:
+      213: 6555516091746086609
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_72
+  - first:
+      213: -6105011926992892406
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_73
+  - first:
+      213: -1715887209250800293
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_74
+  - first:
+      213: -113109137943659715
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_75
+  - first:
+      213: -2459102359957070544
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_76
+  - first:
+      213: 8155169172519388625
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_77
+  - first:
+      213: 8641412024198259395
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_78
+  - first:
+      213: -6374216430986809414
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_79
+  - first:
+      213: -1374754227192712799
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_80
+  - first:
+      213: -8524074513534536856
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_81
+  - first:
+      213: 6964198093745958170
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_82
+  - first:
+      213: -821956851342047071
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_83
+  - first:
+      213: -5785316845042905193
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_84
+  - first:
+      213: 260741832416604101
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_85
+  - first:
+      213: 8287855766344641342
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_86
+  - first:
+      213: -7586759236980961422
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_87
+  - first:
+      213: -3254354896045128672
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_88
+  - first:
+      213: -7730562530954244948
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_89
+  - first:
+      213: -317861796346007220
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_90
+  - first:
+      213: 7748954907359528349
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_91
+  - first:
+      213: -7533108546485890857
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_92
+  - first:
+      213: -6461340092405984247
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_93
+  - first:
+      213: -2102577192926541386
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_94
+  - first:
+      213: 937142836867142546
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_95
+  - first:
+      213: 5104268235973360285
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_96
+  - first:
+      213: 8076538099791600802
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_97
+  - first:
+      213: 7566652468633005832
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_98
+  - first:
+      213: 3516000520248170457
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_99
+  - first:
+      213: -1166166640765632943
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_100
+  - first:
+      213: 9055365129506253540
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_101
+  - first:
+      213: 5652813118016908376
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_102
+  - first:
+      213: -8779488895729401550
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_103
+  - first:
+      213: -516350488021506879
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_104
+  - first:
+      213: -6401272045602093911
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_105
+  - first:
+      213: -7041768949853254679
+    second: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+      Police_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 429
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a78a7e0646aa9a0800000000000000
+      internalID: -6221049567892702583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 429
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c6f127485f110c0800000000000000
+      internalID: -4606630994624156604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 427
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663e7fb2f1210a10800000000000000
+      internalID: 1873816246441358945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 427
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feaf45266256bc60800000000000000
+      internalID: 7833539200523677431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 428
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a2640ac9e3c3a0800000000000000
+      internalID: -6646211571202481281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 444
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4440455e2ed3bf3f0800000000000000
+      internalID: -866030458619296700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 445
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203dd5247e1cfa0c0800000000000000
+      internalID: -4562214698507971838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 442
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7b0bc393d7bf980800000000000000
+      internalID: -8504065786574227543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 355
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a0aa1cf3085670800000000000000
+      internalID: 8527570275739411020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 354
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a38c454fba36890800000000000000
+      internalID: -7465934691367372271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 354
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a5158e64bb5110800000000000000
+      internalID: 1250791708297635504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 354
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a2d3e62e70ca790800000000000000
+      internalID: -7517625008894694854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 354
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31e2b863fbdaed0800000000000000
+      internalID: -2401052785334414382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 353
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ae9127a9b90c30800000000000000
+      internalID: 4326193044540794996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 353
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8039937e91fe57dd0800000000000000
+      internalID: -2488820324519800056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 372
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b6cb398bcdfeb70800000000000000
+      internalID: 8930599271409675089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 371
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e6c2be2f12c5c0800000000000000
+      internalID: -4196757617327544630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 370
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eae8c0d6841a6f0800000000000000
+      internalID: -675178835929551230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_18
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 373
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7629574dcf209930800000000000000
+      internalID: 4147867815520052863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 373
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03a439457f93d90800000000000000
+      internalID: -7117385793461931824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 294
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944766e5938a43790800000000000000
+      internalID: -7551225710843104183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 295
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1f0d2c47cd353e0800000000000000
+      internalID: -2066065409990135348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 297
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b234c8e6c7900e0800000000000000
+      internalID: -2303172920181839011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 283
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1253dd59fb9f8020800000000000000
+      internalID: 2346265426206609950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 288
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdde6e2275edd1b90800000000000000
+      internalID: -7269409757677031969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 288
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b28c576a8e049b0800000000000000
+      internalID: -5097818976545133808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 299
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03577a8fde8af57b0800000000000000
+      internalID: -5233278501948787408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 302
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0823a81e9aafe85f0800000000000000
+      internalID: -752388480183946624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 218
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55b700cf1a7e6b30800000000000000
+      internalID: 4282494572460225885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 218
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fefca990bdfd4640800000000000000
+      internalID: 5065984090795998963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 216
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853356b3b9aa985a0800000000000000
+      internalID: -6518491401948941480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 215
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88db63e9c724daa40800000000000000
+      internalID: 5381030232775376264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 214
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9110d92b96935ca90800000000000000
+      internalID: -7294360895325667047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 219
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12919f84e9c1ee6a0800000000000000
+      internalID: -6418160952801683167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 229
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3cb6380dcc4a010800000000000000
+      internalID: 1199308596717536230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 227
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524ef94be040d7f0800000000000000
+      internalID: -589900171882642864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_36
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 229
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ac7cd1aea697b0800000000000000
+      internalID: -5217791108050017726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_37
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 230
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e081c2f308e74c60800000000000000
+      internalID: 7802459983097987303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_38
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 236
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15a28ac3b52f7ea0800000000000000
+      internalID: -5872933934940904163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 147
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce63995197d62d0800000000000000
+      internalID: -3283835419611436003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 148
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bcc73ea05c2da10800000000000000
+      internalID: 1932823840652315422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 145
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3a6eadc4787900800000000000000
+      internalID: 682423770289946088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 147
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54e69eda5ea35380800000000000000
+      internalID: -8983645126369287075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 146
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c68d5a5964b4cbd0800000000000000
+      internalID: -2610763519387400508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_44
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 158
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c259eeb9190d700800000000000000
+      internalID: 563110052330024080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_45
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 84
+        width: 57
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127dd8b0c0bc554a0800000000000000
+      internalID: -6605150025875073247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_46
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 84
+        width: 62
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc0904d5152b2e90800000000000000
+      internalID: -7049500016036475694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 151
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea59bd6d5fe7840800000000000000
+      internalID: 5223882920952180366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2f02fe1cab088a0800000000000000
+      internalID: -6304834136215325999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 72
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3101ca69526bef5a0800000000000000
+      internalID: -6485546140809031661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 77
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51553eab897c5230800000000000000
+      internalID: 3628909040583922013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaccd8dae063b220800000000000000
+      internalID: 2500448779897719515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_52
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 76
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132b974ec9906aef0800000000000000
+      internalID: -97379772489158095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 83
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b5af9b62f777e0800000000000000
+      internalID: -1767677784665770514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 174
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab6f8c54cabc90b0800000000000000
+      internalID: -5720492074138113117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_55
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e415078660fa9f400800000000000000
+      internalID: 358510087409520974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce1a18fdaec26930800000000000000
+      internalID: 4135094654466662088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ecd52bf98fad7a0800000000000000
+      internalID: -6351490959676682666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 50
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f57f0f7343ed70800000000000000
+      internalID: 9071168287453607764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 51
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d00ac814e56f850800000000000000
+      internalID: 6410414755233664256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_60
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78152ff026dbc8810800000000000000
+      internalID: 1768996982521745799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_61
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 50
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e91dfb0076b67e0800000000000000
+      internalID: -1771208775524311521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_62
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 50
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5d721ae2c61d260800000000000000
+      internalID: 7120591433377502694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_63
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 50
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c77a34c07aee8330800000000000000
+      internalID: 3715164512676640708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 50
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2ffdc549c76cb0800000000000000
+      internalID: -4870703170331922814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 50
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642133cdcab059390800000000000000
+      internalID: -7812325141547642298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_66
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4930e78c3565c40800000000000000
+      internalID: 5500676115452368050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_67
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2c1a5d99f45e070800000000000000
+      internalID: 8134995824047407824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_68
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 50
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621690cb4baeb8880800000000000000
+      internalID: -8607528200818826970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_69
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88556c9cdf01aae10800000000000000
+      internalID: 2209597249376638344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_70
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce857741b1d281900800000000000000
+      internalID: 655323340113139948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb70210d041aec320800000000000000
+      internalID: 2580176936270694334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee1ef172fd9fa50800000000000000
+      internalID: 6555516091746086609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ec0168ff3a64ba0800000000000000
+      internalID: -6105011926992892406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_74
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 38
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d38f1aca1ff28e0800000000000000
+      internalID: -1715887209250800293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_75
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 38
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b740c96d72e6ef0800000000000000
+      internalID: -113109137943659715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_76
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1f68be638fddd0800000000000000
+      internalID: -2459102359957070544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d50c3b872bfc2170800000000000000
+      internalID: 8155169172519388625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_78
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 38
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2602ca3767ce770800000000000000
+      internalID: 8641412024198259395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_79
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa2959deb3a87a0800000000000000
+      internalID: -6374216430986809414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 38
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a136ba6054ebece0800000000000000
+      internalID: -1374754227192712799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_81
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 38
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86330d5746764b980800000000000000
+      internalID: -8524074513534536856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_82
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 38
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d2e23b44dc5a060800000000000000
+      internalID: 6964198093745958170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_83
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a80f0f3992d794f0800000000000000
+      internalID: -821956851342047071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_84
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f422a3bfc66bfa0800000000000000
+      internalID: -5785316845042905193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_85
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa64ba0575e9300800000000000000
+      internalID: 260741832416604101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_86
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 38
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b25a698e0640370800000000000000
+      internalID: 8287855766344641342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_87
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f065b9baa66b690800000000000000
+      internalID: -7586759236980961422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 38
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0244d20e67536d2d0800000000000000
+      internalID: -3254354896045128672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_89
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac078c165687b490800000000000000
+      internalID: -7730562530954244948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_90
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 38
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f02d516ab69bf0800000000000000
+      internalID: -317861796346007220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_91
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d954fa9be61d98b60800000000000000
+      internalID: 7748954907359528349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_92
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0df3860b5057790800000000000000
+      internalID: -7533108546485890857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_93
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 38
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904d62b6b65b456a0800000000000000
+      internalID: -6461340092405984247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_94
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b986c6de2522d2e0800000000000000
+      internalID: -2102577192926541386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_95
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2939447e176610d00800000000000000
+      internalID: 937142836867142546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_96
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7083cae006d640800000000000000
+      internalID: 5104268235973360285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_97
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac9cf44c90a51070800000000000000
+      internalID: 8076538099791600802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_98
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 26
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe3b39456220960800000000000000
+      internalID: 7566652468633005832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_99
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 26
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d71b7738d75bc030800000000000000
+      internalID: 3516000520248170457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_100
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ef04c6e91f0dfe0800000000000000
+      internalID: -1166166640765632943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_101
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 26
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaedaf9b9e1bad70800000000000000
+      internalID: 9055365129506253540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_102
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ce019b493d27e40800000000000000
+      internalID: 5652813118016908376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_103
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 24
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23100947d5df82680800000000000000
+      internalID: -8779488895729401550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e0e587fd85d8f0800000000000000
+      internalID: -516350488021506879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_105
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 26
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4cf3b6dfc1a27a0800000000000000
+      internalID: -6401272045602093911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Danny Phantom The Ultimate Enemy - Walker and Ghost
+        Police_106
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 26
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0f91f27c964e90800000000000000
+      internalID: -7041768949853254679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
