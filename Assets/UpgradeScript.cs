@@ -8,15 +8,24 @@ public class UpgradeScript : MonoBehaviour
     public int lastDamage;
     public static int coinCount = 0;
     public GameObject CoinText;
+
+    private int newDamage;
+    private float newSpeed;
+    private int newHealth;
+    private int newCoin;
+    private int newBoost;
     private void Start()
     {
-
+        newDamage = PlayerPrefs.GetInt("MaxDamage");
+        newSpeed = PlayerPrefs.GetFloat("MaxSpeed");
+        newHealth = PlayerPrefs.GetInt("MaxHealth");
+        newCoin = PlayerPrefs.GetInt("MaxCoin");
+        newBoost = PlayerPrefs.GetInt("MaxBoost");
         //PlayerPrefs.DeleteAll();
-         /*PlayerPrefs.SetInt("MaxHealth", 100);
-         PlayerPrefs.SetInt("MaxDamage", 40);
-       PlayerPrefs.SetFloat("MaxSpeed", 15f);
-        PlayerPrefs.SetInt("MaxBoost", 5);*/
-        
+        /*PlayerPrefs.SetInt("MaxHealth", 100);
+        PlayerPrefs.SetInt("MaxDamage", 40);
+      PlayerPrefs.SetFloat("MaxSpeed", 15f);
+       PlayerPrefs.SetInt("MaxBoost", 5);*/
         lastDamage = PlayerPrefs.GetInt("MaxDamage");
         karakterKontrol.artisMik = PlayerPrefs.GetInt("MaxBoost");
         Player.maxHealth = PlayerPrefs.GetInt("MaxHealth");
@@ -24,10 +33,29 @@ public class UpgradeScript : MonoBehaviour
         karakterKontrol.coinCount = PlayerPrefs.GetInt("MaxCoin");
         coinCount = PlayerPrefs.GetInt("MaxCoin");
         CoinText.GetComponent<TextMeshProUGUI>().text = coinCount.ToString();
+
+        if (newDamage==0)
+        {
+            PlayerPrefs.SetInt("MaxDamage", 40);
+        }
+        if (newSpeed==0)
+        {
+            PlayerPrefs.SetFloat("MaxSpeed", 15f);
+        }
+        if (newCoin==0)
+        {
+            PlayerPrefs.SetInt("MaxCoin",500);
+        }
+        if (newBoost==0)
+        {
+            PlayerPrefs.SetInt("MaxBoost", 5); 
+        }
+
         Debug.Log(lastDamage);
         Debug.Log(Player.maxHealth);
         Debug.Log(karakterKontrol.runKats);
         Debug.Log(karakterKontrol.artisMik);
+
     }
 
     private void Update()
