@@ -13,6 +13,7 @@ public class MainMenu : MonoBehaviour
 
     private void Start()
     {
+        
         newDamage = PlayerPrefs.GetInt("MaxDamage");
         newSpeed = PlayerPrefs.GetFloat("MaxSpeed");
         newHealth = PlayerPrefs.GetInt("MaxHealth");
@@ -45,8 +46,14 @@ public class MainMenu : MonoBehaviour
 
     public void QuitButton()
     {
-
-        Application.Quit();
-
+      
+        if (UnityEditor.EditorApplication.isPlaying == true)
+        {
+            UnityEditor.EditorApplication.isPlaying = false;
+        }
+        else
+        {
+            Application.Quit();
+        }
     }
 }
