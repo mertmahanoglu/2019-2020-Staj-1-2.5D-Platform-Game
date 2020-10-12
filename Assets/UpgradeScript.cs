@@ -33,6 +33,11 @@ public class UpgradeScript : MonoBehaviour
         karakterKontrol.coinCount = PlayerPrefs.GetInt("MaxCoin");
         coinCount = PlayerPrefs.GetInt("MaxCoin");
         CoinText.GetComponent<TextMeshProUGUI>().text = coinCount.ToString();
+        /*Debug.Log(newDamage);
+        Debug.Log(newSpeed);
+        Debug.Log(newHealth);
+        Debug.Log(newCoin);
+        Debug.Log(newBoost);*/
 
         if (newDamage==0)
         {
